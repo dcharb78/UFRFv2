@@ -25,6 +25,9 @@ dist/
 *.csv
 !UFRF-Graphene/code/*.csv
 !UFRF-Graphene/sample_*.csv
+!UFRF_Projection_Paper_Draft_v2/data/*.csv
+!UFRF_Projection_Paper_Draft_v2/data/*.json
+!UFRF_Projection_Paper_Draft_v2/figures/*.png
 
 # Editor
 .vscode/

@@ -1,0 +1,10 @@
+{
+  "n_pairs": 16,
+  "mean_ratio": 1.0869549508328098,
+  "std_ratio": 0.045776864424631844,
+  "min_ratio": 1.0077372262773723,
+  "max_ratio": 1.1543026706231452,
+  "predicted": 1.0833333333333333,
+  "fraction_within_5pct": 0.6875,
+  "fraction_within_1sigma_to_pred": 0.6875
+}

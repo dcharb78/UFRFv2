@@ -13,6 +13,7 @@
 6. **UFRF Cross-Domain Validation** - Evidence from nuclear, quantum, cosmic domains
 7. **UFRF Predictions and Experimental Tests** - Falsifiable predictions
 8. **UFRF Validation Protocol** - Step-by-step validation guide
+9. **UFRF Projection Paper Draft v2** - Cosmology-focused projection experiments and summaries (`UFRF_Projection_Paper_Draft_v2/`)
 
 ### New Insights
 9. **UFRF-Fourier Connection** - Novel explanation of Fourier analysis
@@ -22,6 +23,7 @@
 11. **UFRF Python Implementation** - Complete computational validation code
 12. **UFRF-Fourier Proof Code** - Computational proof of Fourier connection
 13. **UFRF Quick Start Guide** - 5-minute validation process
+14. **Projection Repro** - See `UFRF_Projection_Paper_Draft_v2/Repro_Instructions.md` for data and figure reproduction notes
 
 ## How to Use This Package
 

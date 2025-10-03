@@ -41,6 +41,15 @@ To provide a single, structured entry point to:
     - `README.md` — instructions for running WL/HSE comparison
     - `code/`, `data/`, `runs_full/`, `docs/`, `theory/` — full assets, including real outputs
 
+### Projection Paper Draft v2 (New)
+
+- `UFRF_Projection_Paper_Draft_v2/` — experiments exploring UFRF projection law in cosmology
+  - `UFRF_Projection_Paper_Draft.md`, `UFRF_Projection_Letter.md` — draft write-ups
+  - `UFRF_Cosmic_Web_S8_Projection_Summary.md` — S8 ratio summary (near 13/12)
+  - `UFRF_intrinsic_H0_star.md`, `UFRF_intrinsic_S8_star.md` — intrinsic values via symmetric normalization
+  - `data/` — CSV/JSON inputs and summaries
+  - `figures/` — H0 ratio histogram and scatter plots
+
 ### How to get started
 
 1) Read `ufrf-quick-start.md` to see and reproduce the minimal checks.
