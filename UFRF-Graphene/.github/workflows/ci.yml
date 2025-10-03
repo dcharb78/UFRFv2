@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r code/requirements.txt
+      - name: Run analysis on samples
+        run: |
+          python code/graphene_m_scaling_lab_template.py             --measurements code/sample_measurements.csv             --ratios code/sample_fibonacci_ratios.csv             --dm 1.0             --output ./lab_results
+      - name: Check outputs exist
+        run: |
+          test -f lab_results/per_technique_fits.csv
+          test -f lab_results/O_star_estimates.csv

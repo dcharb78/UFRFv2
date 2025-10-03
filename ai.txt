@@ -1,0 +1,12 @@
+# AI crawler directives (advisory)
+# See also: AI_USE_POLICY.md and LICENSE (CC BY-NC 4.0)
+
+User-agent: *
+Disallow: /
+
+Allow: /README.md
+Allow: /LICENSE
+Allow: /AI_USE_POLICY.md
+
+Policy: This content may not be used for training, fine-tuning, or evaluation of AI/ML systems without a separate, written license from the authors.
+

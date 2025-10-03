@@ -1,0 +1,7 @@
+technique,device,S_log_M_ratio,ratio_8_5,ratio_13_8,ratio_21_13,ratio_34_21
+NonlocalHydro,dev1,0.1,1.600,1.625,1.615,1.619
+NonlocalHydro,dev1,0.9,1.598,1.624,1.618,1.621
+THzOptical,dev2,0.2,1.610,1.628,1.620,1.619
+THzOptical,dev2,1.5,1.603,1.626,1.617,1.620
+ARPES,dev3,0.3,1.595,1.629,1.616,1.620
+ARPES,dev3,1.8,1.600,1.627,1.617,1.618

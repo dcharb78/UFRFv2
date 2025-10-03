@@ -1,0 +1,7 @@
+technique,device,S_log_M_ratio,O_meas,dielectric,invasiveness,density,current
+NonlocalHydro,dev1,0.1,0.112,0.2,0.1,0.0,0.0
+NonlocalHydro,dev1,0.9,0.124,0.9,0.2,0.5,0.2
+THzOptical,dev2,0.2,0.135,0.5,0.2,0.1,0.3
+THzOptical,dev2,1.5,0.162,1.4,0.3,0.8,0.9
+ARPES,dev3,0.3,0.150,0.4,0.5,0.2,0.2
+ARPES,dev3,1.8,0.211,1.8,0.9,1.0,1.2

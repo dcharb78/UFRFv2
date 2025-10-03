@@ -1,0 +1,32 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Plots/outputs
+*.png
+*.pdf
+*.svg
+*.eps
+*.csv
+!UFRF-Graphene/code/*.csv
+!UFRF-Graphene/sample_*.csv
+
+# Editor
+.vscode/
+.idea/
+
