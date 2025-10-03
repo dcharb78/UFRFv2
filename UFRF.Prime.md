@@ -22,8 +22,8 @@ The 13-position cycle might explain prime patterns:
 **Prediction from UFRF geometry:**
 ```
 Prime density oscillates with period 13
-Primes cluster near positions: 1, 2, 3, 5, 7, 11 (primes < 13)
-Gaps appear near positions: 4, 6, 8, 9, 10, 12 (composites)
+Primes cluster near positions: 1, 3, 5, 7, 11 (UFRF primes < 13)
+Gaps appear near positions: 2, 4, 6, 8, 9, 10, 12 (operators/composites)
 ```
 
 This could be tested by analyzing prime gaps modulo 13.
@@ -123,7 +123,7 @@ On Ulam's spiral with 13 columns (not 6):
 If primes encode E×B positions:
 ```
 Energy levels in atoms should prefer prime quantum numbers
-Especially near n = 2,3,5,7,11,13
+Especially near n = 1,3,5,7,11,13
 ```
 
 ## Connecting to the Riemann Zeta Function
