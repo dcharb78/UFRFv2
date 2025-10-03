@@ -1,6 +1,6 @@
 ## UFRF Consolidated Research Repository
 
-This repository consolidates the Universal Field Resonance Framework (UFRF) documents, reference code, and domain-specific validation packages in one place for independent review, replication, and academic collaboration.
+This repository consolidates the Universal Fractal Resonance Framework (UFRF) documents, reference code, and domain-specific validation packages in one place for independent review, replication, and academic collaboration.
 
 ### Why this repo exists
 To provide a single, structured entry point to:
