@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: UFRF vs Standard 2D Navier–Stokes (Minimal Testbed)
+authors:
+  - family-names: Charbonneau
+    given-names: D.
+  - family-names: Grok
+    given-names: 4 (xAI)
+version: 1.0.0
+date-released: 2025-10-04
+license: CC-BY-NC-4.0
+repository-code: https://github.com/dcharb78/UFRFv2
+message: "If you use this package, please cite this file."
