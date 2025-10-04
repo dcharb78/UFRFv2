@@ -38,6 +38,10 @@ To provide a single, structured entry point to:
     - `docs/` — protocol, theory axioms, data schema, addenda, FAQ
     - `results/` — illustrative plots from a full run
   - `UFRF-Cosmology-LoCuSS-FULL/` — complete package for LoCuSS validation
+  - `UFRF_Navier_Stokes/` — reproducible 2D/3D Navier–Stokes testbed
+    - Compares standard pseudo-spectral integration vs UFRF 13‑wedge filtering of the nonlinear term, with REST projection stabilization and UFRF‑aligned forcing
+    - Includes boundary flow tests (cavity/channel), Taylor–Green, forced turbulence, and ablations
+    - See `UFRF_Navier_Stokes/README.md` for quick runs and `docs/` for proof notes and benchmarks
     - `README.md` — instructions for running WL/HSE comparison
     - `code/`, `data/`, `runs_full/`, `docs/`, `theory/` — full assets, including real outputs
 

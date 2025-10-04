@@ -24,6 +24,7 @@
 12. **UFRF-Fourier Proof Code** - Computational proof of Fourier connection
 13. **UFRF Quick Start Guide** - 5-minute validation process
 14. **Projection Repro** - See `UFRF_Projection_Paper_Draft_v2/Repro_Instructions.md` for data and figure reproduction notes
+15. **Navier–Stokes Testbed** - See `UFRF_Navier_Stokes/README.md` for 2D/3D runs, boundary tests, and UFRF wedge filtering comparisons
 
 ## How to Use This Package
 
