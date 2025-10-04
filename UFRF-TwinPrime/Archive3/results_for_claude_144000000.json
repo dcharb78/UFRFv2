@@ -1,0 +1,108 @@
+{
+  "timestamp": "2025-10-03T23:53:14.412856",
+  "prime_limit": 144000000,
+  "total_primes": 8125405,
+  "trinity_dominance": {
+    "gap6_to_gap2": 1.752077355062037,
+    "trinity_dominates": true
+  },
+  "gap_26": {
+    "count": 170358,
+    "density": 0.02096609338242217,
+    "phase_0": 0,
+    "projection_factor": 0.1362796069857441
+  },
+  "channel_strengths": {
+    "2": 607994,
+    "3": 1065447,
+    "5": 598069,
+    "7": 410873,
+    "11": 249110,
+    "13": 170358,
+    "17": 103170,
+    "19": 75539,
+    "23": 43461,
+    "29": 22016,
+    "31": 12991
+  },
+  "interference_patterns": {
+    "2": {
+      "count": 608105,
+      "type": "single_channel"
+    },
+    "6": {
+      "count": 1065447,
+      "type": "single_channel"
+    },
+    "26": {
+      "count": 170358,
+      "type": "single_channel"
+    },
+    "10": {
+      "count": 598069,
+      "type": "single_channel"
+    },
+    "14": {
+      "count": 410873,
+      "type": "single_channel"
+    },
+    "22": {
+      "count": 249110,
+      "type": "single_channel"
+    },
+    "30": {
+      "count": 320614,
+      "type": "interference"
+    },
+    "42": {
+      "count": 126986,
+      "type": "interference"
+    },
+    "66": {
+      "count": 23877,
+      "type": "interference"
+    },
+    "78": {
+      "count": 10528,
+      "type": "interference"
+    }
+  },
+  "phase_overlaps": {
+    "10": {
+      "low_agreement": 760
+    },
+    "22": {
+      "low_agreement": 266
+    },
+    "2": {
+      "low_agreement": 824
+    },
+    "6": {
+      "low_agreement": 1321
+    },
+    "14": {
+      "low_agreement": 512
+    },
+    "4": {
+      "low_agreement": 733
+    },
+    "26": {
+      "low_agreement": 199
+    },
+    "34": {
+      "low_agreement": 131
+    },
+    "62": {
+      "low_agreement": 16
+    },
+    "58": {
+      "low_agreement": 20
+    },
+    "46": {
+      "low_agreement": 51
+    },
+    "106": {
+      "low_agreement": 1
+    }
+  }
+}

@@ -1,0 +1,98 @@
+================================================================================
+COMPLETE UFRF PRIME GAP ANALYSIS REPORT
+Generated: 2025-10-03 23:32:02.520465
+================================================================================
+
+CONFIGURATION:
+  Prime limit: 9,999,991
+  Total primes: 664,579
+
+----------------------------------------
+GAP STATISTICS
+----------------------------------------
+
+Gap=2:
+  Count: 58,980
+  Density: 0.088748
+
+Gap=6:
+  Count: 99,987
+  Density: 0.150452
+
+Gap=26:
+  Count: 12,249
+  Density: 0.018431
+  Theoretical (2/13): 0.153846
+  Observed/Theoretical: 0.1198
+
+Gap=106:
+  Count: 12
+  Density: 0.000018
+
+----------------------------------------
+GAP DOMINANCE TEST
+----------------------------------------
+Gap=2 count: 58,980
+Gap=6 count: 99,987
+*** REVOLUTIONARY: Gap=6 EXCEEDS Gap=2! ***
+
+----------------------------------------
+13-CYCLE ANALYSIS
+----------------------------------------
+
+Gap=2:
+  Chi-squared: 10729.79
+  Phase 0 void: True
+  Phase 11 minimal: True
+
+Gap=6:
+  Chi-squared: 18348.01
+  Phase 0 void: True
+  Phase 11 minimal: False
+
+Gap=26:
+  Chi-squared: 1210.30
+  Phase 0 void: True
+  Phase 11 minimal: False
+  Phase distribution:
+    Phase  0:     0 ( 0.00%)
+    Phase  1:  1076 ( 8.78%)
+    Phase  2:  1054 ( 8.60%)
+    Phase  3:   833 ( 6.80%)
+    Phase  4:   877 ( 7.16%)
+    Phase  5:  1144 ( 9.34%)
+    Phase  6:  1165 ( 9.51%)
+    Phase  7:  1124 ( 9.18%)
+    Phase  8:  1081 ( 8.83%)
+    Phase  9:   866 ( 7.07%)
+    Phase 10:   847 ( 6.91%)
+    Phase 11:  1045 ( 8.53%)
+    Phase 12:  1137 ( 9.28%)
+
+----------------------------------------
+FIBONACCI PRIME ANALYSIS
+----------------------------------------
+Fibonacci numbers up to limit: 36
+Fibonacci primes found: 9
+First 10 Fibonacci primes: [2, 3, 5, 13, 89, 233, 1597, 28657, 514229]
+
+Gaps created by Fibonacci primes:
+  Gap=1: 1 times
+  Gap=2: 2 times
+  Gap=4: 3 times
+  Gap=6: 1 times
+  Gap=8: 1 times
+  Gap=14: 1 times
+
+----------------------------------------
+HYPERDIMENSIONAL PHASE AGREEMENTS
+----------------------------------------
+Total phase agreements: 119
+Fibonacci prime agreements: 0
+
+----------------------------------------
+2/3 RATIO MANIFESTATIONS
+----------------------------------------
+gap_26_to_theoretical: 0.1198
+fibonacci_prime_density: 0.2500
+active_phases: 0.9231

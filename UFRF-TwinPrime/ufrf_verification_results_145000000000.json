@@ -1,0 +1,143 @@
+{
+  "timestamp": "2025-10-04T12:05:34.825993",
+  "prime_limit": 145000000000,
+  "total_primes": 5881011140,
+  "ufrf_verification": {
+    "trinity_creates_eb_vortex": true,
+    "13_position_cycle": true,
+    "observer_at_m144000": true,
+    "all_primes_same_pattern": true,
+    "concurrent_operation": true
+  },
+  "scale_analysis": {
+    "144": {
+      "prime_count": 35,
+      "trinity_dominance": 0.7272727272727273,
+      "gap26_phase0": 0,
+      "gap26_projection": 0,
+      "interference_ratios": {
+        "30/10": 0.0,
+        "42/14": 0.0,
+        "78/26": 0
+      }
+    },
+    "1440": {
+      "prime_count": 229,
+      "trinity_dominance": 1.3191489361702127,
+      "gap26_phase0": 0,
+      "gap26_projection": 0,
+      "interference_ratios": {
+        "30/10": 0.0,
+        "42/14": 0.0,
+        "78/26": 0
+      }
+    },
+    "14400": {
+      "prime_count": 1687,
+      "trinity_dominance": 1.481203007518797,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.023117960877296975,
+      "interference_ratios": {
+        "30/10": 0.09937888198757763,
+        "42/14": 0.0,
+        "78/26": 0.0
+      }
+    },
+    "144000": {
+      "prime_count": 13344,
+      "trinity_dominance": 1.5970785149117468,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.06527278177458033,
+      "interference_ratios": {
+        "30/10": 0.173061863743148,
+        "42/14": 0.05142857142857143,
+        "78/26": 0.0
+      }
+    },
+    "1440000": {
+      "prime_count": 109929,
+      "trinity_dominance": 1.6537190820608982,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.102234169327475,
+      "interference_ratios": {
+        "30/10": 0.28927578036468526,
+        "42/14": 0.1252339629062447,
+        "78/26": 0.015037593984962405
+      }
+    },
+    "14400000": {
+      "prime_count": 934442,
+      "trinity_dominance": 1.7023802156180763,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.12212689498117593,
+      "interference_ratios": {
+        "30/10": 0.41832944173211634,
+        "42/14": 0.2171407775823376,
+        "78/26": 0.03172523779689013
+      }
+    },
+    "144000000": {
+      "prime_count": 8125405,
+      "trinity_dominance": 1.752077355062037,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.1362796069857441,
+      "interference_ratios": {
+        "30/10": 0.5360819570985956,
+        "42/14": 0.30906387131790114,
+        "78/26": 0.06179926977306613
+      }
+    },
+    "1440000000": {
+      "prime_count": 71883003,
+      "trinity_dominance": 1.7824283455625565,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.14417180790290576,
+      "interference_ratios": {
+        "30/10": 0.6407274158222317,
+        "42/14": 0.4010964032005997,
+        "78/26": 0.1005227721033502
+      }
+    },
+    "14400000000": {
+      "prime_count": 644550923,
+      "trinity_dominance": 1.805199988918265,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.1482366669421401,
+      "interference_ratios": {
+        "30/10": 0.733896079406151,
+        "42/14": 0.4867910004586386,
+        "78/26": 0.14498751207277413
+      }
+    },
+    "100000000000": {
+      "prime_count": 4118054814,
+      "trinity_dominance": 1.8208283889553132,
+      "gap26_phase0": 0,
+      "gap26_projection": 0.14970045126747553,
+      "interference_ratios": {
+        "30/10": 0.8040721335079656,
+        "42/14": 0.5545123916357849,
+        "78/26": 0.1848650668959203
+      }
+    }
+  },
+  "fibonacci_primes": [
+    2,
+    3,
+    5,
+    13,
+    89,
+    233,
+    1597,
+    28657,
+    514229,
+    433494437,
+    2971215073
+  ],
+  "key_confirmations": {
+    "trinity_accelerates": "Check results",
+    "phase_0_void": "Check results",
+    "projection_1_7": "Check results",
+    "fibonacci_5_8": "Check results"
+  }
+}

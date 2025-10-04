@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-10-04T00:23:15.014559",
+  "prime_limit": 144000000,
+  "total_primes": 8125404,
+  "scale_analysis": {
+    "10000000": {
+      "prime_count": 664580,
+      "trinity_dominance": 1.6952695829094608,
+      "gap26_projection": 0.11980273255289055,
+      "gap26_phase0": 0,
+      "interference_ratios": {
+        "30/10": 0.3994231228527861,
+        "42/14": 0.2028592416793807,
+        "78/26": 0.029553432933300677
+      },
+      "fibonacci_syncs": 6
+    },
+    "100000000": {
+      "prime_count": 5761456,
+      "trinity_dominance": 1.7459256163811117,
+      "gap26_projection": 0.1347788649258104,
+      "gap26_phase0": 0,
+      "interference_ratios": {
+        "30/10": 0.5182295542491442,
+        "42/14": 0.2954867138925174,
+        "78/26": 0.056836730423136486
+      },
+      "fibonacci_syncs": 6
+    }
+  },
+  "fibonacci_primes": [
+    2,
+    3,
+    5,
+    13,
+    89,
+    233,
+    1597,
+    28657,
+    514229,
+    433494437,
+    2971215073
+  ],
+  "key_findings": {
+    "trinity_acceleration": "Check if trinity/unity increases",
+    "projection_convergence": "Check if approaching 1/7",
+    "phase_0_void": "Verify gap 26 phase 0 remains void",
+    "fibonacci_sync": "Count of Fibonacci synchronizations"
+  }
+}

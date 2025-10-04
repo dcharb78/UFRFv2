@@ -1,0 +1,32 @@
+HYPERDIMENSIONAL ANALYSIS RESULTS
+==================================================
+Configuration: 664,579 primes analyzed (limit: 9,999,991)
+
+GAP DOMINANCE:
+Gap=2: 58,980
+Gap=6: 99,987
+Dominance: Gap=6 DOES exceed Gap=2
+
+GAP=26 STRUCTURE:
+Count: 12,249
+Density: 0.018431
+Theoretical (2/13): 0.153846
+Observed/Theoretical: 0.1198
+Phase 0: 0 (void confirmed: YES)
+Phase 11: 1045 (minimal confirmed: NO)
+
+FIBONACCI CONNECTIONS:
+Fibonacci primes found: [2, 3, 5, 13, 89, 233, 1597, 28657, 514229]
+Create special gaps: YES
+  Gap=2: 2 times
+  Gap=6: 1 times
+Phase agreements at Fib primes: 0
+
+2/3 RATIO MANIFESTATIONS:
+  gap_26_to_theoretical: 0.1198
+  fibonacci_prime_density: 0.2500
+  active_phases: 0.9231
+
+ANOMALIES:
+  - Gap=6 exceeds Gap=2 (UNEXPECTED)
+  - Phase 0 is completely void for Gap=26 (CONFIRMS UFRF)

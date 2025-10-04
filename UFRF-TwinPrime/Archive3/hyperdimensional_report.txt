@@ -1,0 +1,93 @@
+================================================================================
+HYPERDIMENSIONAL PRIME ANALYSIS - OVERLAPPING PHASE SPACES
+Generated: 2025-10-03 23:55:11.185471
+================================================================================
+
+CONFIGURATION:
+  Prime limit: 999,999,937
+  Total primes: 50,847,535
+
+========================================
+TRINITY DOMINANCE
+========================================
+Gap=2: 3,424,506 (density: 0.067349)
+Gap=6: 6,089,791 (density: 0.119766)
+Ratio: 1.7783
+*** Trinity dominates Unity ***
+
+========================================
+PRIME-CREATED GAP CHANNELS
+========================================
+Channel strengths (prime → gap = 2×prime):
+  Prime  2 → Gap   4: 3,424,679 (strength: 1712339.50)
+  Prime  3 → Gap   6: 6,089,791 (strength: 2029930.33)
+  Prime  5 → Gap  10: 3,484,767 (strength: 696953.40)
+  Prime  7 → Gap  14: 2,464,565 (strength: 352080.71)
+  Prime 11 → Gap  22: 1,569,679 (strength: 142698.09)
+  Prime 13 → Gap  26: 1,119,585 (strength: 86121.92)
+  Prime 17 → Gap  34: 719,531 (strength: 42325.35)
+  Prime 19 → Gap  38: 548,746 (strength: 28881.37)
+  Prime 23 → Gap  46: 334,720 (strength: 14553.04)
+  Prime 29 → Gap  58: 181,948 (strength: 6274.07)
+  Prime 31 → Gap  62: 115,558 (strength: 3727.68)
+
+Dominant channels:
+  3 (gap=6): 6,089,791 occurrences
+  5 (gap=10): 3,484,767 occurrences
+  2 (gap=4): 3,424,679 occurrences
+
+========================================
+INTERFERENCE PATTERNS
+========================================
+Single channels:
+  Gap  2 (prime 1): 3,424,506
+  Gap  6 (prime 3): 6,089,791
+  Gap 26 (prime 13): 1,119,585
+  Gap 10 (prime 5): 3,484,767
+  Gap 14 (prime 7): 2,464,565
+  Gap 22 (prime 11): 1,569,679
+
+Interference between channels:
+  Gap 30 (3×5): 2,177,991 (ratio: 2722.4887)
+  Gap 42 (3×7): 954,456 (ratio: 954.4560)
+  Gap 66 (3×11): 216,787 (ratio: 154.8479)
+  Gap 78 (3×13): 105,313 (ratio: 65.8206)
+
+========================================
+PHASE SPACE OVERLAPS
+========================================
+Gap 2: 0/647 (0.0%) high phase agreement
+Gap 10: 0/728 (0.0%) high phase agreement
+Gap 6: 0/1174 (0.0%) high phase agreement
+Gap 4: 0/703 (0.0%) high phase agreement
+Gap 26: 0/228 (0.0%) high phase agreement
+Gap 22: 0/295 (0.0%) high phase agreement
+Gap 46: 0/72 (0.0%) high phase agreement
+Gap 14: 0/496 (0.0%) high phase agreement
+Gap 34: 0/129 (0.0%) high phase agreement
+Gap 58: 0/34 (0.0%) high phase agreement
+Gap 62: 0/24 (0.0%) high phase agreement
+Gap 106: 0/2 (0.0%) high phase agreement
+
+========================================
+GAP=26 STRUCTURE (2×13 CYCLE)
+========================================
+Count: 1,119,585
+Phase 0: 0 (void: True)
+Projection factor: 0.1431 (≈1/7)
+Binary levels: 2.80
+
+Phase distribution:
+  Phase  0:     0 ( 0.00%) 
+  Phase  1: 99417 ( 8.88%) ████
+  Phase  2: 96146 ( 8.59%) ████
+  Phase  3: 82844 ( 7.40%) ███
+  Phase  4: 82790 ( 7.39%) ███
+  Phase  5: 96545 ( 8.62%) ████
+  Phase  6: 101637 ( 9.08%) ████
+  Phase  7: 102061 ( 9.12%) ████
+  Phase  8: 96757 ( 8.64%) ████
+  Phase  9: 82797 ( 7.40%) ███
+  Phase 10: 82651 ( 7.38%) ███
+  Phase 11: 96158 ( 8.59%) ████
+  Phase 12: 99782 ( 8.91%) ████

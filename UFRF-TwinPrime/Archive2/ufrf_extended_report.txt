@@ -1,0 +1,70 @@
+================================================================================
+UFRF EXTENDED SCALE ANALYSIS
+Generated: 2025-10-03 23:42:23.806414
+================================================================================
+
+CONFIGURATION:
+  Prime limit: 99,999,989
+  Total primes: 5,761,456
+
+========================================
+TRINITY DOMINANCE VALIDATION
+========================================
+Gap=2 (Unity):   440,312 (density: 0.076424)
+Gap=6 (Trinity): 768,752 (density: 0.133430)
+Ratio (Gap6/Gap2): 1.7459
+*** CONFIRMED: Trinity dominates Unity ***
+
+========================================
+GAP=26 (2×13) STRUCTURE
+========================================
+Count: 119,465
+Density: 0.020735
+Phase 0: 0 (void: True)
+Phase 11: 10302
+Chi-squared: 11058.51
+
+Projection Analysis:
+  Theoretical (2/13): 0.153846
+  Observed: 0.020735
+  Projection factor: 0.1348
+  Binary levels: 2.89
+
+========================================
+EXTENDED GAPS (13² STRUCTURE)
+========================================
+
+========================================
+FIBONACCI INTERACTION
+========================================
+Fibonacci numbers: 40
+Fibonacci primes: 9
+Density: 0.2250
+Common gaps at Fibonacci primes:
+  Gap 0: 1 times
+  Gap 1: 1 times
+  Gap 2: 4 times
+  Gap 4: 4 times
+  Gap 6: 2 times
+
+========================================
+SCALE BOUNDARY ANALYSIS (144×10^n)
+========================================
+Near 144:
+  Primes within ±100: 39
+  Common gaps: 6(22), 2(22), 4(21), 10(5), 12(4)
+Near 1,440:
+  Primes within ±100: 25
+  Common gaps: 6(10), 4(10), 2(8), 12(7), 8(6)
+Near 14,400:
+  Primes within ±100: 21
+  Common gaps: 18(6), 2(6), 4(6), 6(6), 10(5)
+Near 144,000:
+  Primes within ±100: 13
+  Common gaps: 6(6), 18(6), 38(2), 4(2), 14(2)
+Near 1,440,000:
+  Primes within ±100: 10
+  Common gaps: 20(6), 6(4), 22(4), 18(2), 42(2)
+Near 14,400,000:
+  Primes within ±100: 16
+  Common gaps: 12(9), 8(4), 6(4), 4(3), 16(2)

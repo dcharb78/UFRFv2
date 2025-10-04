@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-03T23:42:23.806844",
+  "prime_limit": 99999989,
+  "total_primes": 5761456,
+  "trinity_dominance": {
+    "gap6_to_gap2": 1.7459256163811117,
+    "trinity_dominates": true
+  },
+  "gap_26": {
+    "count": 119465,
+    "density": 0.020735209988586217,
+    "phase_0": 0,
+    "projection_factor": 0.1347788649258104
+  },
+  "extended_gaps": {
+    "338": 0,
+    "1014": 0,
+    "4394": 0
+  }
+}
