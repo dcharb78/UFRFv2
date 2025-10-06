@@ -84,10 +84,6 @@ C3,K_3_5,K_2_7_mirror
   - **Deficit size** \(\Delta u\) grows with **opposed-phase overlap**.
   - **Alignment proxy:** cosine similarity of \(v_1,v_2\) (more negative ⇒ larger savings).
 
-## License
-
-MIT
-
 
 ---
 
