@@ -1,0 +1,15 @@
+{
+  "runs": 10,
+  "files": [
+    "rediag_0.csv",
+    "rediag_1.csv",
+    "rediag_2.csv",
+    "rediag_3.csv",
+    "rediag_4.csv",
+    "rediag_5.csv",
+    "rediag_6.csv",
+    "rediag_7.csv",
+    "rediag_8.csv",
+    "rediag_9.csv"
+  ]
+}

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "Deterministic Subadditivity in Composite Knots via Multiscale Log-Phase Projection"
+authors:
+  - family-names: Charboneau
+    given-names: Daniel
+keywords:
+  - knot theory
+  - harmonic analysis
+  - subadditivity
+  - projection methods

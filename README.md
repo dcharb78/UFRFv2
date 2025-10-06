@@ -39,6 +39,10 @@ To provide a single, structured entry point to:
     - `results/` — illustrative plots from a full run
   - `UFRF-Cosmology-LoCuSS-FULL/` — complete package for LoCuSS validation
   - `UFRF_Navier_Stokes/` — reproducible 2D/3D Navier–Stokes testbed
+  - `UFRF_Knots/` — phase‑projection analysis of unknotting subadditivity in composite knots
+    - Phase‑only pipeline (no external deps) and optional SnapPy verification mode
+    - Reproducible scripts, small sample datasets, and plots under `results/`
+    - See `UFRF_Knots/README.md` for commands and theory summary
     - Compares standard pseudo-spectral integration vs UFRF 13‑wedge filtering of the nonlinear term, with REST projection stabilization and UFRF‑aligned forcing
     - Includes boundary flow tests (cavity/channel), Taylor–Green, forced turbulence, and ablations
     - See `UFRF_Navier_Stokes/README.md` for quick runs and `docs/` for proof notes and benchmarks
@@ -74,6 +78,7 @@ If you need a different license for specific use (e.g., commercial), please open
 - Cosmology LoCuSS (`UFRF-Cosmology-LoCuSS-FULL/`): Compares WL vs HSE cluster masses to test projection‑law intercepts and technique slopes. Purpose: evaluate if technique couplings predict observed offsets without new probe‑specific physics.
 - Projection Paper v2 (`UFRF_Projection_Paper_Draft_v2/`): Examines whether early/late H₀ and cosmic/local S₈ tensions reconcile under a fixed ratio near 13/12 with symmetric normalization. Purpose: derive consistent intrinsic H₀* and S₈* and pre‑register fσ₈(z) tests.
 - Navier–Stokes (`UFRF_Navier_Stokes/`): Compares standard pseudo‑spectral NSE vs UFRF 13‑wedge nonlinear filtering, REST projection stabilization, and aligned forcing in 2D/3D, with boundary tests. Purpose: probe whether UFRF’s geometrical constraints improve stability/spectral behavior.
+- Knots (`UFRF_Knots/`): Tests UFRF’s 13‑phase interference predictions on unknotting‑cost subadditivity in composite knots; includes permutation tests, regression, and optional SnapPy verification. Purpose: evaluate phase anti‑alignment as a predictor of subadditive costs and robustness to re‑diagramming.
 - TwinPrime (`UFRF-TwinPrime/`): Prime gap analysis across large scales using concurrent phase‑space/13‑cycle lens. Purpose: assess scale‑dependent patterns (e.g., phase‑0 avoidance for gap 26, evolving gap‑ratio limits) predicted by the framework.
 - Fourier/Validation scripts: `ufrf-fourier-proof.py` explores orthogonality/structure; `ufrf-python-implementation.py` mirrors core calculations. Purpose: provide minimal, runnable checks; see `ufrf-quick-start.md` and `ufrf-validation-package-index.md`.
 

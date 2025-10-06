@@ -28,6 +28,11 @@ dist/
 !UFRF_Projection_Paper_Draft_v2/data/*.csv
 !UFRF_Projection_Paper_Draft_v2/data/*.json
 !UFRF_Projection_Paper_Draft_v2/figures/*.png
+!UFRF_Knots/data/*.csv
+!UFRF_Knots/data/*.json
+!UFRF_Knots/results/**/*.json
+!UFRF_Knots/results/**/*.csv
+!UFRF_Knots/results/**/*.png
 
 # Editor
 .vscode/

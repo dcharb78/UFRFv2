@@ -1,0 +1,148 @@
+{
+  "feature_mode": "multiscale",
+  "mode": "phase",
+  "has_snappy": false,
+  "single": {
+    "K_3_1": {
+      "l1_cost": 6,
+      "norm2": 3.7416573867739413
+    },
+    "K_4_1": {
+      "l1_cost": 8,
+      "norm2": 4.242640687119285
+    },
+    "K_5_1": {
+      "l1_cost": 11,
+      "norm2": 5.196152422706632
+    },
+    "K_5_2": {
+      "l1_cost": 11,
+      "norm2": 5.196152422706632
+    },
+    "K_7_1": {
+      "l1_cost": 14,
+      "norm2": 5.656854249492381
+    },
+    "K_3_1_mirror": {
+      "l1_cost": 6,
+      "norm2": 3.7416573867739413
+    },
+    "K_4_1_mirror": {
+      "l1_cost": 8,
+      "norm2": 4.242640687119285
+    },
+    "K_5_1_mirror": {
+      "l1_cost": 11,
+      "norm2": 5.196152422706632
+    },
+    "K_5_2_mirror": {
+      "l1_cost": 11,
+      "norm2": 5.196152422706632
+    },
+    "K_7_1_mirror": {
+      "l1_cost": 14,
+      "norm2": 5.656854249492381
+    }
+  },
+  "composites": [
+    {
+      "composite_id": "C_K_3_1__K_3_1_mirror",
+      "left_id": "K_3_1",
+      "right_id": "K_3_1_mirror",
+      "u1": 19,
+      "u2": 19,
+      "u12": 38,
+      "delta": 0,
+      "cosine": 1.0,
+      "oppose_overlap": 0
+    },
+    {
+      "composite_id": "C_K_4_1__K_4_1_mirror",
+      "left_id": "K_4_1",
+      "right_id": "K_4_1_mirror",
+      "u1": 66,
+      "u2": 47,
+      "u12": 85,
+      "delta": -28,
+      "cosine": -0.557837850877145,
+      "oppose_overlap": 28
+    },
+    {
+      "composite_id": "C_K_5_1__K_5_1_mirror",
+      "left_id": "K_5_1",
+      "right_id": "K_5_1_mirror",
+      "u1": 100,
+      "u2": 100,
+      "u12": 200,
+      "delta": 0,
+      "cosine": 1.0,
+      "oppose_overlap": 0
+    },
+    {
+      "composite_id": "C_K_5_2__K_5_2_mirror",
+      "left_id": "K_5_2",
+      "right_id": "K_5_2_mirror",
+      "u1": 113,
+      "u2": 113,
+      "u12": 226,
+      "delta": 0,
+      "cosine": 0.9999999999999999,
+      "oppose_overlap": 0
+    },
+    {
+      "composite_id": "C_K_7_1__K_7_1_mirror",
+      "left_id": "K_7_1",
+      "right_id": "K_7_1_mirror",
+      "u1": 171,
+      "u2": 171,
+      "u12": 342,
+      "delta": 0,
+      "cosine": 1.0,
+      "oppose_overlap": 0
+    },
+    {
+      "composite_id": "C_K_3_1__K_4_1",
+      "left_id": "K_3_1",
+      "right_id": "K_4_1",
+      "u1": 19,
+      "u2": 66,
+      "u12": 83,
+      "delta": -2,
+      "cosine": 0.8725193616055413,
+      "oppose_overlap": 2
+    },
+    {
+      "composite_id": "C_K_5_1__K_5_2",
+      "left_id": "K_5_1",
+      "right_id": "K_5_2",
+      "u1": 100,
+      "u2": 113,
+      "u12": 213,
+      "delta": 0,
+      "cosine": 0.998041108345801,
+      "oppose_overlap": 0
+    },
+    {
+      "composite_id": "C_K_5_1__K_7_1",
+      "left_id": "K_5_1",
+      "right_id": "K_7_1",
+      "u1": 100,
+      "u2": 171,
+      "u12": 259,
+      "delta": -12,
+      "cosine": 0.4674149906860101,
+      "oppose_overlap": 12
+    },
+    {
+      "composite_id": "C_K_4_1__K_7_1",
+      "left_id": "K_4_1",
+      "right_id": "K_7_1",
+      "u1": 66,
+      "u2": 171,
+      "u12": 237,
+      "delta": 0,
+      "cosine": 0.6949816748747915,
+      "oppose_overlap": 0
+    }
+  ]
+}

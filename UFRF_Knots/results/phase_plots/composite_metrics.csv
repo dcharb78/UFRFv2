@@ -1,0 +1,5 @@
+composite_id,left_id,right_id,u1,u2,u12,delta,cosine,oppose_overlap
+C1,K_2_7,K_2_7_mirror,6,6,6,-6,-0.9999999999999998,6
+C2,K_2_7,K_3_5,6,5,11,0,0.0,0
+C3,K_3_5,K_2_7_mirror,5,6,11,0,0.0,0
+C4,K_2_7,U,6,0,6,0,0.0,0

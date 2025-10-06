@@ -1,0 +1,68 @@
+{
+  "mode": "phase",
+  "has_snappy": false,
+  "single": {
+    "K_2_7": {
+      "l1_cost": 6,
+      "norm2": 2.8284271247461903
+    },
+    "K_2_7_mirror": {
+      "l1_cost": 6,
+      "norm2": 2.8284271247461903
+    },
+    "K_3_5": {
+      "l1_cost": 5,
+      "norm2": 2.6457513110645907
+    },
+    "U": {
+      "l1_cost": 0,
+      "norm2": 0.0
+    }
+  },
+  "composites": [
+    {
+      "composite_id": "C1",
+      "left_id": "K_2_7",
+      "right_id": "K_2_7_mirror",
+      "u1": 6,
+      "u2": 6,
+      "u12": 6,
+      "delta": -6,
+      "cosine": -0.9999999999999998,
+      "oppose_overlap": 6
+    },
+    {
+      "composite_id": "C2",
+      "left_id": "K_2_7",
+      "right_id": "K_3_5",
+      "u1": 6,
+      "u2": 5,
+      "u12": 11,
+      "delta": 0,
+      "cosine": 0.0,
+      "oppose_overlap": 0
+    },
+    {
+      "composite_id": "C3",
+      "left_id": "K_3_5",
+      "right_id": "K_2_7_mirror",
+      "u1": 5,
+      "u2": 6,
+      "u12": 11,
+      "delta": 0,
+      "cosine": 0.0,
+      "oppose_overlap": 0
+    },
+    {
+      "composite_id": "C4",
+      "left_id": "K_2_7",
+      "right_id": "U",
+      "u1": 6,
+      "u2": 0,
+      "u12": 6,
+      "delta": 0,
+      "cosine": 0.0,
+      "oppose_overlap": 0
+    }
+  ]
+}

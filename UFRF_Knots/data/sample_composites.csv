@@ -1,0 +1,5 @@
+composite_id,left_id,right_id
+C1,K_2_7,K_2_7_mirror
+C2,K_2_7,K_3_5
+C3,K_3_5,K_2_7_mirror
+C4,K_2_7,U
