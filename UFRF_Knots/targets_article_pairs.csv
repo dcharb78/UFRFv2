@@ -1,0 +1,10 @@
+composite_id,left_id,right_id
+C_K_7_1__K_7_1_mirror,K_7_1,K_7_1_mirror
+C_K_3_1__K_7_1,K_3_1,K_7_1
+C_K_3_1_mirror__K_7_1_mirror,K_3_1_mirror,K_7_1_mirror
+C_K_4_1__K_7_1,K_4_1,K_7_1
+C_K_4_1_mirror__K_7_1_mirror,K_4_1_mirror,K_7_1_mirror
+C_K_5_1__K_7_1,K_5_1,K_7_1
+C_K_5_1_mirror__K_7_1_mirror,K_5_1_mirror,K_7_1_mirror
+C_K_5_2__K_7_1,K_5_2,K_7_1
+C_K_5_2_mirror__K_7_1_mirror,K_5_2_mirror,K_7_1_mirror

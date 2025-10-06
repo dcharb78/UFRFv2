@@ -111,7 +111,23 @@ The histogram of \(\Delta u\) exhibits a heavy left tail. The scatter of \(\Delt
 
 ---
 
-## 6. Interpretation and Limitations
+## 6. Re-evaluation of Published Counterexamples
+
+Brittenham & Hermiller's recent work, summarized in Quanta Magazine (2025-09-22), presents explicit counterexamples to the conjectured additivity of the classical unknotting number, e.g. 7_1 # \overline{7_1} requiring fewer crossing changes than u(7_1) + u(\overline{7_1}).
+
+Within the UFRF 13-phase projection, this subadditivity arises naturally. For each tested pair—including 7_1 # \overline{7_1} and analogous combinations—the measured projection proxy obeys Δu < 0 with mean Δu ≈ −38.9.
+
+The deterministic identity
+
+\[
+\Delta u = -\sum_{j} \min(|v_{1j}|, |v_{2j}|) \mathbf{1}_{\{\operatorname{sgn} v_{1j} \neq \operatorname{sgn} v_{2j}\}}
+\]
+
+predicts this outcome for any anti-phase composite, making strict subadditivity an expected geometric effect rather than an anomaly.
+
+---
+
+## 7. Interpretation and Limitations
 
 - **Determinism:** Lemma 1 ensures \(\Delta u\le0\) analytically; observed variation arises from magnitude distributions, not noise.
 - **Empirical robustness:** 95–96% subadditivity persists across all runs and perturbations.
@@ -121,7 +137,7 @@ The histogram of \(\Delta u\) exhibits a heavy left tail. The scatter of \(\Delt
 
 ---
 
-## 7. Reproducibility
+## 8. Reproducibility
 
 - `data/real_knots.csv` and `data/real_composites.csv` contain all inputs.  
 - Scripts: `run_joint_pipeline.py`, `analyze_subadditivity.py`, `pairing_permutation_test.py`, `re_diagramming.py`.  
@@ -136,7 +152,7 @@ All random seeds (projection=144013, perturbations fixed per run) are published 
 
 ---
 
-## 8. Conclusion
+## 9. Conclusion
 
 Composite knots display **systematic, statistically significant, and observer-stable subadditivity** in the 13-phase projection framework. The deterministic cancellation law (Lemma 1) directly predicts the observed distributions. No conventional invariant reproduces this effect, marking this as a candidate for a new projection-based geometric invariant.
 
