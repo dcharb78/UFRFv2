@@ -11,16 +11,9 @@ venv/
 # MacOS
 .DS_Store
 
-# Results and generated artifacts
-results/
-results_sweep/
-results_grid/
-results_inviscid/
-results_tg/
-results_forced/
-*.png
-*.json
-*.csv
+# Results and generated artifacts (track figures/data for docs)
+# Remove blanket ignores so README-linked figures and CSV/JSON are committed.
+# If needed, ignore heavy intermediates by name (e.g., *.npy) rather than all data.
 
 # Jupyter/IPython
 .ipynb_checkpoints/

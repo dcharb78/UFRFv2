@@ -17,22 +17,17 @@ dist/
 # Jupyter
 .ipynb_checkpoints/
 
-# Plots/outputs
-*.png
-*.pdf
-*.svg
-*.eps
-*.csv
+# Plots/outputs (track repo-wide to ensure figures/data in docs are included)
+# If you need to ignore large generated artifacts, scope ignores per-package.
+# Keep Graphene code CSVs and samples tracked (already committed)
 !UFRF-Graphene/code/*.csv
 !UFRF-Graphene/sample_*.csv
 !UFRF_Projection_Paper_Draft_v2/data/*.csv
 !UFRF_Projection_Paper_Draft_v2/data/*.json
-!UFRF_Projection_Paper_Draft_v2/figures/*.png
-!UFRF_Knots/data/*.csv
-!UFRF_Knots/data/*.json
-!UFRF_Knots/results/**/*.json
-!UFRF_Knots/results/**/*.csv
-!UFRF_Knots/results/**/*.png
+!UFRF_Projection_Paper_Draft_v2/figures/*
+!UFRF_Knots/data/*
+!UFRF_Knots/results/**
+!UFRF-Cosmology-LoCuSS-FULL/data/*
 
 # Editor
 .vscode/

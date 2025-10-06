@@ -1,0 +1,90 @@
+{
+  "baseline": {
+    "standard": {
+      "init_type": "random",
+      "out_prefix": "standard",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.569346311962991e-10,
+      "energy_decay_fraction": 0.39325906196238336,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.7381114193503527e-08,
+      "max_grad_w_final": 5.9877027508541516e-05
+    },
+    "ufrf": {
+      "init_type": "random",
+      "out_prefix": "ufrf",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.5694582982644125e-10,
+      "energy_decay_fraction": 0.3932400257950761,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.738176004571105e-08,
+      "max_grad_w_final": 5.987940743939372e-05
+    }
+  },
+  "wedge_only": {
+    "standard": {
+      "init_type": "random",
+      "out_prefix": "standard",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.569346311962991e-10,
+      "energy_decay_fraction": 0.39325906196238336,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.7381114193503527e-08,
+      "max_grad_w_final": 5.9877027508541516e-05
+    },
+    "ufrf": {
+      "init_type": "random",
+      "out_prefix": "ufrf",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.569564676962458e-10,
+      "energy_decay_fraction": 0.3932219428450348,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.738252653160195e-08,
+      "max_grad_w_final": 5.9877447089047366e-05
+    }
+  },
+  "friction_only": {
+    "standard": {
+      "init_type": "random",
+      "out_prefix": "standard",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.569346311962991e-10,
+      "energy_decay_fraction": 0.39325906196238336,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.7381114193503527e-08,
+      "max_grad_w_final": 5.9877027508541516e-05
+    },
+    "ufrf": {
+      "init_type": "random",
+      "out_prefix": "ufrf",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.5694582982644125e-10,
+      "energy_decay_fraction": 0.3932400257950761,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.738176004571105e-08,
+      "max_grad_w_final": 5.987940743939372e-05
+    }
+  },
+  "wedge_and_friction": {
+    "standard": {
+      "init_type": "random",
+      "out_prefix": "standard",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.569346311962991e-10,
+      "energy_decay_fraction": 0.39325906196238336,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.7381114193503527e-08,
+      "max_grad_w_final": 5.9877027508541516e-05
+    },
+    "ufrf": {
+      "init_type": "random",
+      "out_prefix": "ufrf",
+      "energy_initial": 5.882817670927784e-10,
+      "energy_final": 3.569564676962458e-10,
+      "energy_decay_fraction": 0.3932219428450348,
+      "enstrophy_initial": 1.6094297138866884e-07,
+      "enstrophy_final": 2.738252653160195e-08,
+      "max_grad_w_final": 5.9877447089047366e-05
+    }
+  }
+}

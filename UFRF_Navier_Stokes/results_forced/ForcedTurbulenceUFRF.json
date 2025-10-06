@@ -1,0 +1,22 @@
+{
+  "standard": {
+    "init_type": "random",
+    "out_prefix": "standard",
+    "energy_initial": 6.481836595650237e-11,
+    "energy_final": 2.2769851683735708e-11,
+    "energy_decay_fraction": 0.6487129635601141,
+    "enstrophy_initial": 5.1837784047055084e-08,
+    "enstrophy_final": 2.218027494761794e-09,
+    "max_grad_w_final": 8.428142780787944e-06
+  },
+  "ufrf": {
+    "init_type": "random",
+    "out_prefix": "ufrf",
+    "energy_initial": 6.481836595650237e-11,
+    "energy_final": 2.278964113620604e-11,
+    "energy_decay_fraction": 0.6484076573065808,
+    "enstrophy_initial": 5.1837784047055084e-08,
+    "enstrophy_final": 2.2118922720523342e-09,
+    "max_grad_w_final": 8.377202387649243e-06
+  }
+}

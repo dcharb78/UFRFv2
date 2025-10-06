@@ -1,0 +1,5 @@
+knot_id,dt_code,phase_vector
+# Example rows (remove leading '#' to use). DT codes must be a list of even integers.
+# K_T2_7,"[4,6,8,10,12,14,2]","[0,0,0,0,0,0,0,0,0,0,0,0,0]"
+# K_T2_7_mirror,"[-4,-6,-8,-10,-12,-14,-2]","[0,0,0,0,0,0,0,0,0,0,0,0,0]"
+# K_8_19,"[6,8,10,12,14,16,18,4]","[0,0,0,0,0,0,0,0,0,0,0,0,0]"
