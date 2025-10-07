@@ -1,0 +1,14 @@
+segment,source_midpoint,land_k,index,t_frac
+contract1,9/2,9/1,1,19/56
+contract1,9/2,9/1,2,41/112
+contract1,9/2,9/1,3,11/28
+contract1,9/2,9/1,4,47/112
+contract1,9/2,9/1,5,25/56
+contract1,9/2,9/1,6,53/112
+contract2,13/2,13/1,1,107/128
+contract2,13/2,13/1,2,55/64
+contract2,13/2,13/1,3,113/128
+contract2,13/2,13/1,4,29/32
+contract2,13/2,13/1,5,119/128
+contract2,13/2,13/1,6,61/64
+contract2,13/2,13/1,7,125/128

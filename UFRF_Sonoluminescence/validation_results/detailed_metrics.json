@@ -1,0 +1,57 @@
+{
+  "temporal_correlation": {
+    "pearson_r": 0.3133787975195286,
+    "pearson_p": 3.1680658163281857e-24,
+    "max_correlation": 0.11122784889972875,
+    "optimal_lag_ps": -5.6000000000000005,
+    "zero_lag_correlation": 0.9383464603060502,
+    "autocorr_peaks": 3,
+    "autocorr_avg_spacing_ps": 7.3
+  },
+  "fft_comb": {
+    "predicted_freq_THz": 0.08123476848090982,
+    "predicted_spacing_ps": 12.31,
+    "detected_peaks": 1,
+    "peak_frequencies_THz": [
+      0.015
+    ],
+    "peak_heights": [
+      0.015050190555840318
+    ],
+    "harmonics_found": [],
+    "comb_detected": false
+  },
+  "bubble_dynamics": {
+    "flash_time_us": 18.74,
+    "R_at_flash_um": 5.007075656214132,
+    "R_dot_at_flash": -1.1309645008276163,
+    "flash_during_contraction": true,
+    "contraction_fraction": 0.5,
+    "t_R_min_us": 0.0,
+    "t_max_collapse_us": 18.743743743743742
+  },
+  "spectral_phi_scaling": {
+    "phi": 1.618033988749895,
+    "sqrt_phi": 1.272019649514069,
+    "reference_energy_eV": 4.95936793732801,
+    "reference_wavelength_nm": 250.0,
+    "spectral_peaks": 4,
+    "peak_wavelengths_nm": [
+      308.1291759465479,
+      404.3429844097995,
+      588.7527839643652,
+      655.9020044543429
+    ],
+    "peak_energies_eV": [
+      4.023773407770648,
+      3.0663125913801665,
+      2.1058787628714555,
+      1.8902854022582996
+    ],
+    "energy_ratios": [
+      0.7620490223079043,
+      0.6867788916209571,
+      0.897623089983022
+    ]
+  }
+}

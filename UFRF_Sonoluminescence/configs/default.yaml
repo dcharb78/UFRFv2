@@ -1,0 +1,8 @@
+f0: 60
+ps_total: 160.0
+segments_ps: [50.0, 30.0, 50.0, 30.0]
+micro_osc_per_midpoint: 36
+kappa_time: 1.0
+projection_quanta: 1
+use_fdtd_lite: false
+seed: 1337

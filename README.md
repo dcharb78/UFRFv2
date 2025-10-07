@@ -48,6 +48,11 @@ To provide a single, structured entry point to:
     - See `UFRF_Navier_Stokes/README.md` for quick runs and `docs/` for proof notes and benchmarks
     - `README.md` — instructions for running WL/HSE comparison
     - `code/`, `data/`, `runs_full/`, `docs/`, `theory/` — full assets, including real outputs
+  - `UFRF_Sonoluminescence/` — validation of UFRF predictions against sonoluminescence experimental data
+    - 13‑pulse temporal structure with hierarchical 26 half‑turn carrier modulation
+    - Validates logarithmic compression law, golden ratio noble gas scaling, and contraction‑phase emission
+    - Complete experimental validation suite with cross‑correlation and hierarchical pattern analysis
+    - See `UFRF_Sonoluminescence/README.md` for quick start, results, and validation scripts
 
 ### Projection Paper Draft v2 (New)
 
@@ -77,8 +82,9 @@ If you need a different license for specific use (e.g., commercial), please open
 - Graphene (`UFRF-Graphene/`): Tests whether REST‑position enhancement (√φ) explains η/s trends in 2D Dirac systems. Purpose: check if technique‑dependent projections reconcile reported spread while intrinsic values cluster.
 - Cosmology LoCuSS (`UFRF-Cosmology-LoCuSS-FULL/`): Compares WL vs HSE cluster masses to test projection‑law intercepts and technique slopes. Purpose: evaluate if technique couplings predict observed offsets without new probe‑specific physics.
 - Projection Paper v2 (`UFRF_Projection_Paper_Draft_v2/`): Examines whether early/late H₀ and cosmic/local S₈ tensions reconcile under a fixed ratio near 13/12 with symmetric normalization. Purpose: derive consistent intrinsic H₀* and S₈* and pre‑register fσ₈(z) tests.
-- Navier–Stokes (`UFRF_Navier_Stokes/`): Compares standard pseudo‑spectral NSE vs UFRF 13‑wedge nonlinear filtering, REST projection stabilization, and aligned forcing in 2D/3D, with boundary tests. Purpose: probe whether UFRF’s geometrical constraints improve stability/spectral behavior.
-- Knots (`UFRF_Knots/`): Tests UFRF’s 13‑phase interference predictions on unknotting‑cost subadditivity in composite knots; includes permutation tests, regression, and optional SnapPy verification. Purpose: evaluate phase anti‑alignment as a predictor of subadditive costs and robustness to re‑diagramming.
+- Navier–Stokes (`UFRF_Navier_Stokes/`): Compares standard pseudo‑spectral NSE vs UFRF 13‑wedge nonlinear filtering, REST projection stabilization, and aligned forcing in 2D/3D, with boundary tests. Purpose: probe whether UFRF's geometrical constraints improve stability/spectral behavior.
+- Knots (`UFRF_Knots/`): Tests UFRF's 13‑phase interference predictions on unknotting‑cost subadditivity in composite knots; includes permutation tests, regression, and optional SnapPy verification. Purpose: evaluate phase anti‑alignment as a predictor of subadditive costs and robustness to re‑diagramming.
+- Sonoluminescence (`UFRF_Sonoluminescence/`): Validates UFRF's 13‑pulse temporal structure and hierarchical 26 half‑turn carrier predictions against experimental sonoluminescence data (flash timing, bubble dynamics, noble gas scaling). Purpose: test whether UFRF‑predicted logarithmic compression (R² = 0.874), golden ratio Z^(1/φ) scaling (R² = 0.845), and pattern‑of‑patterns structure match observed emission physics.
 - TwinPrime (`UFRF-TwinPrime/`): Prime gap analysis across large scales using concurrent phase‑space/13‑cycle lens. Purpose: assess scale‑dependent patterns (e.g., phase‑0 avoidance for gap 26, evolving gap‑ratio limits) predicted by the framework.
 - Fourier/Validation scripts: `ufrf-fourier-proof.py` explores orthogonality/structure; `ufrf-python-implementation.py` mirrors core calculations. Purpose: provide minimal, runnable checks; see `ufrf-quick-start.md` and `ufrf-validation-package-index.md`.
 

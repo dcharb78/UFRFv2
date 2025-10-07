@@ -1,0 +1,54 @@
+{
+  "template_test": {
+    "13_only": {
+      "correlation": 0.3133787975195286,
+      "p_value": 3.1680658163281857e-24,
+      "max_xcorr": 0.11122784889972875
+    },
+    "26_half_turn": {
+      "correlation": 0.7788118474502412,
+      "p_value": 2.299310363884304e-204,
+      "max_xcorr": 0.19767380889716593,
+      "spacing_ps": 6.153846153846154
+    },
+    "hierarchical_13x26": {
+      "correlation": 0.36456240747936924,
+      "p_value": 8.566284786775482e-33,
+      "max_xcorr": 0.07980809376375197
+    },
+    "winner": "26 HALF-TURN",
+    "improvement_hier_over_13_percent": 16.332824800200818,
+    "improvement_26_over_13_percent": 148.52091258717292
+  },
+  "power_ratio": {
+    "f_13_THz": 0.08124999999999999,
+    "f_26_THz": 0.16249999999999998,
+    "power_at_f13": 0.0007364064281407979,
+    "power_at_2f13": 0.00019542391250619174,
+    "ratio_2f13_over_f13": 0.2653750769117777,
+    "half_turn_dominates": false
+  },
+  "deconvolution": {
+    "instrument_sigma_ps": 2.0,
+    "SNR_assumed": 10.0,
+    "power_f13_original": 0.0007364064281407979,
+    "power_f13_deconvolved": 0.0014388537602692678,
+    "power_2f13_original": 0.00019542391250619174,
+    "power_2f13_deconvolved": 0.0003154252915713504,
+    "f13_enhancement_percent": 95.38853889447105
+  },
+  "phase_alignment": {
+    "k_landings_total": 13,
+    "k_landings_in_contraction": 13,
+    "k_landings_in_prep": 0,
+    "perfect_alignment": true,
+    "prep_subpeaks": 72,
+    "half_turns_between_pulses": 12
+  },
+  "autocorrelation": {
+    "detected_spacing_ps": 7.3,
+    "expected_26_spacing_ps": 6.153846153846154,
+    "expected_13_spacing_ps": 12.307692307692308,
+    "ratio_detected_to_26": 1.1862499999999998
+  }
+}
