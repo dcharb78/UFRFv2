@@ -1,0 +1,29 @@
+{
+  "posterior_aware": {
+    "n_draws": 1000,
+    "median_enrichment_frac": 0.4878048780487805,
+    "median_pval": 0.002023878434677655,
+    "ci_95_frac": [
+      0.3902439024390244,
+      0.5853658536585366
+    ],
+    "ci_95_pval": [
+      1.7114009119147853e-05,
+      0.05720819707095999
+    ],
+    "frac_draws_significant": 0.959,
+    "bayes_factor_rough": 23.390243902439003
+  },
+  "selection_aware": {
+    "observed_frac": 0.5365853658536586,
+    "null_mean": 0.26426829268292684,
+    "null_std": 0.06916935135710327,
+    "null_ci_95": [
+      0.12195121951219512,
+      0.4146341463414634
+    ],
+    "pval_selection_aware": 0.0,
+    "z_score": 3.9369614928313235,
+    "note": "Null from LVK-like population (power-law + equal-mass peak)"
+  }
+}

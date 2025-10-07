@@ -53,6 +53,10 @@ To provide a single, structured entry point to:
     - Validates logarithmic compression law, golden ratio noble gas scaling, and contraction‑phase emission
     - Complete experimental validation suite with cross‑correlation and hierarchical pattern analysis
     - See `UFRF_Sonoluminescence/README.md` for quick start, results, and validation scripts
+  - `UFRF-Blackhole/` — black hole merger analysis using GWOSC catalogs
+    - Tests φ/Fibonacci clustering in mass ratios, √φ final‑spin predictions, and 13‑gate ringdown phase quantization
+    - Reproducible analysis pipeline with validation scripts
+    - See `UFRF-Blackhole/README.md` for step‑by‑step instructions
 
 ### Projection Paper Draft v2 (New)
 
@@ -85,6 +89,7 @@ If you need a different license for specific use (e.g., commercial), please open
 - Navier–Stokes (`UFRF_Navier_Stokes/`): Compares standard pseudo‑spectral NSE vs UFRF 13‑wedge nonlinear filtering, REST projection stabilization, and aligned forcing in 2D/3D, with boundary tests. Purpose: probe whether UFRF's geometrical constraints improve stability/spectral behavior.
 - Knots (`UFRF_Knots/`): Tests UFRF's 13‑phase interference predictions on unknotting‑cost subadditivity in composite knots; includes permutation tests, regression, and optional SnapPy verification. Purpose: evaluate phase anti‑alignment as a predictor of subadditive costs and robustness to re‑diagramming.
 - Sonoluminescence (`UFRF_Sonoluminescence/`): Validates UFRF's 13‑pulse temporal structure and hierarchical 26 half‑turn carrier predictions against experimental sonoluminescence data (flash timing, bubble dynamics, noble gas scaling). Purpose: test whether UFRF‑predicted logarithmic compression (R² = 0.874), golden ratio Z^(1/φ) scaling (R² = 0.845), and pattern‑of‑patterns structure match observed emission physics.
+- Black Hole Mergers (`UFRF-Blackhole/`): Tests UFRF harmonic structure predictions in gravitational wave data from GWOSC catalogs. Purpose: validate three a priori predictions — φ/Fibonacci clustering in mass ratios (P1), √φ final‑spin model improvement (P2), and 13‑gate ringdown phase quantization (P3) — using reproducible analysis pipeline.
 - TwinPrime (`UFRF-TwinPrime/`): Prime gap analysis across large scales using concurrent phase‑space/13‑cycle lens. Purpose: assess scale‑dependent patterns (e.g., phase‑0 avoidance for gap 26, evolving gap‑ratio limits) predicted by the framework.
 - Fourier/Validation scripts: `ufrf-fourier-proof.py` explores orthogonality/structure; `ufrf-python-implementation.py` mirrors core calculations. Purpose: provide minimal, runnable checks; see `ufrf-quick-start.md` and `ufrf-validation-package-index.md`.
 
