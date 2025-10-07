@@ -11,21 +11,23 @@ To provide a single, structured entry point to:
 
 ### Contents
 
-- Core documents (root):
-  - `ufrf-core-theory-corrected.md` — core theoretical narrative
-  - `ufrf-mathematical-framework.md` — mathematical derivations and formulas
-  - `ufrf-axioms-principles-corrected.md` — foundational axioms/assumptions
-  - `ufrf-geometry-scales.md` — geometry and scale hierarchy
-  - `ufrf-integration-summary-corrected.md` — integrated synthesis of the framework
-  - `ufrf-cross-domain-validation-corrected.md` — evidence across domains
-  - `ufrf-predictions-tests-corrected.md` — falsifiable predictions and tests
-  - `ufrf-objection-handling-corrected.md` — responses to common objections
-  - `ufrf_math_appendix.md`, `ufrf-math-part1/2/3.md` — additional math notes
-  - `UFRF.Prime.md` — prime/tesseract notes (research draft)
-
-- Validation/usage docs:
-  - `ufrf-quick-start.md` — validate key claims in minutes
-  - `ufrf-validation-package-index.md` — index of documents and code
+- Core documents (root, numbered in reading order):
+  - `01-ufrf-quick-start.md` — validate key claims in minutes (start here!)
+  - `02-ufrf-core-theory-corrected.md` — core theoretical narrative
+  - `03-ufrf-axioms-principles-corrected.md` — foundational axioms/assumptions
+  - `04-ufrf-mathematical-framework.md` — mathematical derivations and formulas
+  - `05-ufrf-geometry-scales.md` — geometry and scale hierarchy
+  - `06-ufrf-integration-summary-corrected.md` — integrated synthesis of the framework
+  - `07-ufrf-cross-domain-validation-corrected.md` — evidence across domains
+  - `08-ufrf-predictions-tests-corrected.md` — falsifiable predictions and tests
+  - `09-ufrf-objection-handling-corrected.md` — responses to common objections
+  - `10-ufrf-fourier-connection.md` — Fourier connection details
+  - `11-ufrf-math-appendix.md` — mathematical appendix
+  - `12-ufrf-math-part1.md` — additional math notes (part 1)
+  - `13-ufrf-math-part2.md` — additional math notes (part 2)
+  - `14-ufrf-math-part3.md` — additional math notes (part 3)
+  - `15-UFRF-Prime.md` — prime/tesseract notes (research draft)
+  - `16-ufrf-validation-package-index.md` — index of documents and code
 
 - Reference code:
   - `ufrf-python-implementation.py` — reference Python implementation used in docs
@@ -69,9 +71,10 @@ To provide a single, structured entry point to:
 
 ### How to get started
 
-1) Read `ufrf-quick-start.md` to see and reproduce the minimal checks.
-2) For deeper dives, use `ufrf-validation-package-index.md` to navigate the theory and evidence.
-3) To run domain packages:
+1) Read `01-ufrf-quick-start.md` to see and reproduce the minimal checks.
+2) Follow the numbered documents (01-16) in order for a complete understanding of the framework.
+3) For deeper dives, use `16-ufrf-validation-package-index.md` to navigate the theory and evidence.
+4) To run domain packages:
    - Graphene: see `UFRF-Graphene/README.md`
    - Cosmology (LoCuSS): see `UFRF-Cosmology-LoCuSS-FULL/README.md`
 
@@ -91,7 +94,7 @@ If you need a different license for specific use (e.g., commercial), please open
 - Sonoluminescence (`UFRF_Sonoluminescence/`): Validates UFRF's 13‑pulse temporal structure and hierarchical 26 half‑turn carrier predictions against experimental sonoluminescence data (flash timing, bubble dynamics, noble gas scaling). Purpose: test whether UFRF‑predicted logarithmic compression (R² = 0.874), golden ratio Z^(1/φ) scaling (R² = 0.845), and pattern‑of‑patterns structure match observed emission physics.
 - Black Hole Mergers (`UFRF-Blackhole/`): Tests UFRF harmonic structure predictions in gravitational wave data from GWOSC catalogs. Purpose: validate three a priori predictions — φ/Fibonacci clustering in mass ratios (P1), √φ final‑spin model improvement (P2), and 13‑gate ringdown phase quantization (P3) — using reproducible analysis pipeline.
 - TwinPrime (`UFRF-TwinPrime/`): Prime gap analysis across large scales using concurrent phase‑space/13‑cycle lens. Purpose: assess scale‑dependent patterns (e.g., phase‑0 avoidance for gap 26, evolving gap‑ratio limits) predicted by the framework.
-- Fourier/Validation scripts: `ufrf-fourier-proof.py` explores orthogonality/structure; `ufrf-python-implementation.py` mirrors core calculations. Purpose: provide minimal, runnable checks; see `ufrf-quick-start.md` and `ufrf-validation-package-index.md`.
+- Fourier/Validation scripts: `ufrf-fourier-proof.py` explores orthogonality/structure; `ufrf-python-implementation.py` mirrors core calculations. Purpose: provide minimal, runnable checks; see `01-ufrf-quick-start.md` and `16-ufrf-validation-package-index.md`.
 
 ### AI and automated use
 
