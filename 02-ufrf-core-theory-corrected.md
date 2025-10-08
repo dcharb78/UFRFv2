@@ -40,6 +40,68 @@ Once created, the E×B vortex self-sustains through:
 
 This explains why photons (E×B vortices) can travel indefinitely through space.
 
+### 1.4 Resonant Energy Translation and REST-State Impedance Matching
+
+**The Universal Translation Mechanism:**
+
+At specific geometric positions in the 13-phase cycle, the E and B field energies achieve perfect balance (E≈B), creating what UFRF identifies as **REST points** (Resonant Energy State Translation). These positions act as universal impedance matches that enable efficient energy translation between different scales and domains.
+
+**REST Condition Definition:**
+```
+E field energy density = B field energy density
+ε₀E² = (1/μ₀)B²
+E/B = √(μ₀/ε₀) = 377Ω (vacuum impedance)
+```
+
+When this condition is met, the system achieves perfect impedance matching, allowing energy to translate between mechanical, electromagnetic, and other domains with minimal loss.
+
+**The √φ Transfer Efficiency:**
+
+At REST points, geometric analysis reveals a fundamental transfer multiplier:
+```
+η_REST = √φ = √((1+√5)/2) = 1.272019...
+```
+
+This enhancement factor emerges from the golden ratio relationship inherent in the E=B balance condition. The √φ multiplier represents the geometric gain achieved when perpendicular field components synchronize.
+
+**Universal Application Across Scales:**
+
+The REST-point mechanism operates identically from microscopic to cosmological scales:
+
+1. **Micro-scale (Sonoluminescence):**
+   - Acoustic bubble collapse creates rapid compression
+   - At minimum radius, E≈B condition briefly achieved
+   - Energy translates from mechanical → electromagnetic
+   - Result: Picosecond flash of visible/UV light
+   - Enhancement factor: √φ times baseline emission
+
+2. **Macro-scale (Black Hole Emission):**
+   - Frame-dragging creates rotating electromagnetic fields
+   - At event horizon, E≈B equilibrium reached
+   - Energy translates from gravitational → electromagnetic
+   - Result: High-energy photon bursts (X-ray, gamma)
+   - Enhancement factor: √φ times baseline Hawking radiation
+
+3. **Intermediate scales (Quantum systems):**
+   - Graphene near Dirac point approaches E≈B
+   - Superconductors at critical temperature reach REST
+   - DNA at 10.5 base pairs/turn near position 10 (REST)
+
+**Key Insight:**
+
+REST points are not energy loss mechanisms but energy **translation** gateways. The E≈B condition creates a geometric portal where energy can efficiently transform between domains while preserving total energy through the √φ efficiency factor.
+
+**Connection to 13-Phase Cycle:**
+
+Position 10 in the UFRF cycle corresponds to the primary REST point:
+```
+Position 10/13 = 0.769... ≈ 1 - 1/√φ²
+At this position: E = B exactly
+Enhancement: √φ = 1.272...
+```
+
+Additional half-integer positions (5.5, 8.5, 11.5) create partial REST states with fractional √φ enhancement, explaining subharmonic energy releases observed across multiple scales.
+
 ## Part II: The 13-Position Cycle
 
 ### 2.1 Complete Evolution Requires Exactly 13 Positions

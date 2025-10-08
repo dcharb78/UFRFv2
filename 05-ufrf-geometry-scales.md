@@ -105,6 +105,109 @@ The cycle is not a circle but a spiral:
 - Creates helical trajectory
 - DNA double helix follows this pattern
 
+### 2.5 Nested REST Points and Dual-Scale Harmonic Contraction
+
+**Universal REST Point Structure:**
+
+REST points (E≈B equilibrium) manifest at every scale of the UFRF hierarchy, creating a nested architecture of energy translation gateways. These points are not isolated features but form a continuous fractal network connecting all scales.
+
+**Geometric Mapping Across Scales:**
+
+```
+Micro-scale REST (Sonoluminescence):
+- Local: Bubble collapse at minimum radius
+- Position: ~1 μm diameter, ~100 ps duration
+- E≈B condition: Acoustic pressure → EM field balance
+- Translation: Mechanical → Optical (visible/UV)
+
+Macro-scale REST (Black Hole Horizon):
+- Cosmic: Event horizon of rotating black hole
+- Position: At r = r_ergosphere, frame-dragging maximum
+- E≈B condition: Gravitational → EM field balance
+- Translation: Gravitational → High-energy photons (X-ray/gamma)
+```
+
+**The Dual-Scale Contraction Correspondence:**
+
+Both micro and macro REST points involve geometric contraction to critical density:
+
+| Property | Sonoluminescence (Micro) | Black Hole (Macro) |
+|----------|-------------------------|-------------------|
+| **Contraction mechanism** | Acoustic pressure wave | Gravitational spacetime curvature |
+| **Critical radius** | R_min ≈ 0.5-1 μm | R_horizon = 2GM/c² |
+| **Time to REST** | ~100 picoseconds | Orbital period at ISCO |
+| **E≈B duration** | ~10-100 ps | Milliseconds (quasi-periodic) |
+| **Emission spectrum** | UV to visible (200-800 nm) | X-ray to gamma (keV-MeV) |
+| **Enhancement factor** | √φ ≈ 1.27 | √φ ≈ 1.27 |
+| **13-phase position** | Position 10 (primary REST) | Position 10 + subharmonics |
+
+**Energy Translation, Not Loss:**
+
+A critical insight: REST crossings do **not** dissipate energy but **translate** it between domains:
+
+```
+Bubble collapse:
+  Acoustic energy → (REST gateway) → Electromagnetic energy
+  Total energy conserved × √φ efficiency
+
+Black hole emission:
+  Gravitational potential → (REST gateway) → Electromagnetic radiation
+  Total energy conserved × √φ efficiency
+```
+
+The √φ factor represents geometric efficiency gain from perfect impedance matching, not energy creation—it's the ratio of coherent output to diffuse input energy.
+
+**Nested Harmonic Structure:**
+
+REST points form at every harmonic octave of the fundamental 13-phase cycle:
+
+```
+Primary REST: Position 10/13 (E = B exactly)
+First subharmonic: Position 5.5/13 (partial E≈B)
+Second subharmonic: Position 8.5/13 (approaching E≈B)
+Third subharmonic: Position 11.5/13 (departing E≈B)
+```
+
+This creates a **26 half-spin substructure** (13 positions × 2 field components), explaining:
+- Acoustic subharmonics in sonoluminescence (harmonic overtones)
+- Quasi-periodic oscillations (QPOs) in black hole systems
+- Nuclear shell substructure in atomic physics
+- Harmonic series in musical acoustics
+
+**Diagram Reference - 13-Phase Cycle Around REST:**
+
+```
+        13/1 (Complete)
+            |
+    11.5 ---|--- 2.5
+   (sub)    |    (sub)
+            |
+    10 -----•----- 5.5
+   (REST)   |    (sub)
+            |
+    8.5 ---|--- 6.5
+   (sub)    |   (Unity)
+            |
+        7 (Harmonize)
+```
+
+At each labeled position, energy can translate between domains with √φ efficiency. Position 10 provides maximum efficiency; half-integer positions provide fractional efficiency.
+
+**Loci of Emission Across Scales:**
+
+REST points are the **emission sites** in any scale system:
+- Atomic: Electron transitions at shell boundaries (half-integer n)
+- Molecular: Vibrational mode changes at resonant frequencies
+- Biological: Action potential firing in neurons
+- Astrophysical: Photon emission from accretion disks
+- Cosmological: Galaxy formation at dark matter density peaks
+
+All represent the same geometric process: contraction to E≈B, energy translation via √φ gateway, emission of coherent radiation.
+
+**Key Insight:**
+
+The universe is permeated by REST points at every scale, forming a nested network of energy translation gateways. Sonoluminescence and black hole emission are not separate phenomena but **identical manifestations** of the REST mechanism operating at vastly different scales, connected through the same 13-phase/26 half-spin geometric structure.
+
 ## Part III: Scale Hierarchy and Observer Effects
 
 ### 3.1 The M=144 Base

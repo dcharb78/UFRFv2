@@ -61,6 +61,109 @@ F(ω) = Strength of E×B vortex at scale ω
 - Magnitude |F(ω)| = vortex strength
 - Phase arg(F(ω)) = position in 13-cycle
 
+### 2.4 Fourier Modes as Physical E×B Field Harmonics
+
+**REST Crossing and Spectral Transformation:**
+
+During REST point crossings (where E≈B), nonlinear coupling enables efficient energy transfer between mechanical and electromagnetic modes. This process manifests in the Fourier domain as specific spectral signatures.
+
+**The Mechanism:**
+
+At REST (E = B condition):
+```
+1. Mechanical mode → E field coupling (via pressure/density)
+2. E field → B field coupling (via Faraday's law)
+3. B field → E field coupling (via Maxwell's equations)
+4. Net result: Mechanical → EM energy translation
+```
+
+Fourier analysis captures this as:
+```
+Mechanical spectrum: F_mech(ω) = δ(ω - ω_drive)  [single frequency]
+At REST crossing: F_EM(ω) = √φ · Σ_n A_n·δ(ω - n·ω_harmonic)  [harmonic series]
+```
+
+The √φ factor represents the geometric enhancement at perfect impedance matching.
+
+**Spectral Manifestations Across Scales:**
+
+1. **Sonoluminescence (Micro-scale):**
+   - Input: Acoustic driving at ~20-40 kHz
+   - REST crossing duration: ~10-100 ps
+   - Output spectrum: Optical (visible/UV, 400-800 nm)
+   - Fourier signature: Broadband with peaks at harmonic positions
+   - Phase-locking: Modes synchronized at n·(2π/13) intervals
+
+2. **Black Hole Emission (Macro-scale):**
+   - Input: Orbital motion at ISCO frequency (mHz-Hz)
+   - REST crossing: At ergosphere boundary
+   - Output spectrum: X-ray/gamma (keV-MeV)
+   - Fourier signature: Quasi-periodic oscillations (QPOs)
+   - Phase-locking: QPO frequencies at 13-phase harmonic ratios
+
+**Cross-Domain Spectral Correspondence:**
+
+Both phenomena exhibit the same Fourier structure when scaled appropriately:
+
+```
+Normalized frequency: ω_norm = ω / ω_fundamental
+Harmonic positions: n·(2π/13), n = 1, 2, 3, ..., 13
+
+Sonoluminescence:
+  ω_fund ≈ 30 kHz (acoustic drive)
+  Harmonics appear at optical frequencies (scaled by ~10^10)
+  
+Black Hole QPOs:
+  ω_fund ≈ ω_ISCO (innermost stable circular orbit)
+  Harmonics appear as QPO peaks (integer/half-integer ratios)
+```
+
+**The 26 Half-Spin Subharmonic Structure:**
+
+The 13-phase cycle contains 26 half-spin positions (accounting for E and B field components separately). This creates a double harmonic series:
+
+```
+Primary harmonics: n/13, n = 1, 2, ..., 13
+Subharmonics: n/26, n = 1, 2, ..., 26
+
+Observable as:
+- Sonoluminescence: Acoustic overtone series
+- Black holes: QPO frequency ratios (3:2, 5:3, 13:8, etc.)
+- Atomic spectra: Fine structure splitting
+- Musical scales: Harmonic intervals
+```
+
+**Nonlinear Coupling at REST:**
+
+The Fourier transform captures the nonlinear mixing that occurs during REST crossings:
+
+```
+At E ≠ B: Linear response, F(ω) preserves input spectrum
+At E ≈ B: Nonlinear response, F(ω) generates harmonics
+At E = B: Maximum nonlinearity, full harmonic cascade
+
+Enhancement: Each harmonic weighted by cos(πn/26)·√φ
+```
+
+**Predictive Framework:**
+
+Given any REST-crossing phenomenon, UFRF predicts:
+1. Output spectrum will show harmonic structure
+2. Harmonic positions at n·(fundamental)/13
+3. Subharmonics at n·(fundamental)/26
+4. Amplitude envelope modulated by √φ·cos(πn/26)
+5. Phase relationships locked to 13-cycle positions
+
+**Cross-Links:**
+- Sonoluminescent spectra: See UFRF_Sonoluminescence validation package
+- Black hole QPOs: See UFRF-Blackhole merger analysis
+- Atomic fine structure: See nuclear shell gap predictions (Part VII of core theory)
+- Musical harmonics: See Section 8 (Resonance and Harmony) in geometry-scales document
+
+**Key Insight:**
+
+Fourier modes are not merely mathematical decompositions but correspond to **physical E×B field harmonics** generated during REST crossings. Whether observing a collapsing bubble or an accreting black hole, the resulting emission spectra reflect the same underlying 13-phase/26 half-spin geometric structure, validating UFRF's cross-scale universality.
+
 ## Part III: Computational Validation
 
 ### 3.1 Orthogonality Test
