@@ -13,14 +13,14 @@ To provide a single, structured entry point to:
 
 - Core documents (root, numbered in reading order):
   - `01-ufrf-quick-start.md` — validate key claims in minutes (start here!)
-  - `02-ufrf-core-theory-corrected.md` — core theoretical narrative
-  - `03-ufrf-axioms-principles-corrected.md` — foundational axioms/assumptions
+  - `02-ufrf-core-theory.md` — core theoretical narrative
+  - `03-ufrf-axioms-principles.md` — foundational axioms/assumptions
   - `04-ufrf-mathematical-framework.md` — mathematical derivations and formulas
   - `05-ufrf-geometry-scales.md` — geometry and scale hierarchy
-  - `06-ufrf-integration-summary-corrected.md` — integrated synthesis of the framework
-  - `07-ufrf-cross-domain-validation-corrected.md` — evidence across domains
-  - `08-ufrf-predictions-tests-corrected.md` — falsifiable predictions and tests
-  - `09-ufrf-objection-handling-corrected.md` — responses to common objections
+  - `06-ufrf-integration-summary.md` — integrated synthesis of the framework
+  - `07-ufrf-cross-domain-validation.md` — evidence across domains
+  - `08-ufrf-predictions-tests.md` — falsifiable predictions and tests
+  - `09-ufrf-objection-handling.md` — responses to common objections
   - `10-ufrf-fourier-connection.md` — Fourier connection details
   - `11-ufrf-math-appendix.md` — mathematical appendix
   - `12-ufrf-math-part1.md` — additional math notes (part 1)
