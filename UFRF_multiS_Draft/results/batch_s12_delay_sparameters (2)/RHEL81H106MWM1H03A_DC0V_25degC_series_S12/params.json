@@ -1,0 +1,17 @@
+{
+  "input": "RHEL81H106MWM1H03A_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 4.6358051103435685e-10,
+    "phi0": -0.12369189240171466,
+    "train_MSE": 0.00435748943060297,
+    "test_MSE": 0.005698405152563172
+  },
+  "train_improvement_percent": 0.3843038399632936,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

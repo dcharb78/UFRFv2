@@ -1,0 +1,19 @@
+{
+  "input": "LQP15MN1N2B02_series.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.0008428344683693217
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.000843063270163573,
+    "improvement_percent": -0.027146705888038254
+  }
+}

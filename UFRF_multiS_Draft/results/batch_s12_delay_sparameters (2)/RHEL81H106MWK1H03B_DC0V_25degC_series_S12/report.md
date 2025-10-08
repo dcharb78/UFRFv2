@@ -1,0 +1,6 @@
+# S-parameter Predictive-Prior Test — RHEL81H106MWK1H03B_DC0V_25degC_series.s2p (S12)
+- Z0: 50.00 Ω
+- Train points: 321  |  Test points: 80
+
+## Baseline
+- {'model': 'delay+poly_complex_logf(deg=3)', 'tau': 4.6358051103435685e-10, 'phi0': -0.12369189240171466, 'train_MSE': 0.00435748943060297, 'test_MSE': 0.005698405152563172}

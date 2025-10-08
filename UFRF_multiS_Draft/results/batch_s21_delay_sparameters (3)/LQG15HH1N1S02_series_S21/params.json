@@ -1,0 +1,18 @@
+{
+  "input": "LQG15HH1N1S02_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.8528184956876631,
+  "ufrf_test_MSE": 0.8528184956876631,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.006622380138255166,
+  "used_ufrf": false,
+  "tau_est": 1.4137762272657445e-11,
+  "phi0_est": 0.0034974326057052745
+}

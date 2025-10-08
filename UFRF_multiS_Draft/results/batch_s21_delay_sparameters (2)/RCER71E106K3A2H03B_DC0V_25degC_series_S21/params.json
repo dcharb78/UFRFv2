@@ -1,0 +1,18 @@
+{
+  "input": "RCER71E106K3A2H03B_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 2.026056090854538,
+  "ufrf_test_MSE": 2.026056090854538,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.001400852390804354,
+  "used_ufrf": false,
+  "tau_est": 6.233302526998208e-09,
+  "phi0_est": 0.12502906750187676
+}

@@ -1,0 +1,18 @@
+{
+  "input": "04AF391.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 70,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.008769084245824885,
+  "ufrf_test_MSE": 0.008769084245824885,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.0016092663391693827,
+  "used_ufrf": false,
+  "tau_est": 6.437641746170045e-10,
+  "phi0_est": -0.23272727573614435
+}

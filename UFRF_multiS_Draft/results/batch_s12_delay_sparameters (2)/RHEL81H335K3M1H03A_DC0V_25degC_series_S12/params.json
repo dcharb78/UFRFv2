@@ -1,0 +1,17 @@
+{
+  "input": "RHEL81H335K3M1H03A_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 8.250323537185863e-10,
+    "phi0": -0.2334213154249311,
+    "train_MSE": 0.008073773847501553,
+    "test_MSE": 0.010299683428822873
+  },
+  "train_improvement_percent": 0.36245021624757034,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

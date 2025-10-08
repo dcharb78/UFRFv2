@@ -1,0 +1,1 @@
+# Delay-aware S21 test — NFZ5BBW310LN10_series.s2p\n- split: block, test_points: 80\n- baseline_test_MSE: 3.20074\n- ufrf_test_MSE: 3.20074\n- improvement: 0.00%\n- tau_est: -5.9677e-10 s, phi0_est: -0.606 rad\n- used_ufrf: False (gate=0.02, train_gain=0.0003)\n

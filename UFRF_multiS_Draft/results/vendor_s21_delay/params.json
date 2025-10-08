@@ -1,0 +1,21 @@
+{
+  "input": "0603CT_22N.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 710,
+  "test_points": 177,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 3.438363766296645e-11,
+    "phi0": 0.21307171532656458,
+    "train_MSE": null,
+    "test_MSE": 0.005981234543016819
+  },
+  "ufrf_prior": {
+    "model": "delay+poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.006034956723356672,
+    "improvement_percent": -0.898178794920755
+  }
+}

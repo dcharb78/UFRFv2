@@ -1,0 +1,18 @@
+{
+  "input": "NFZ32SW901HN10_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 1.3841805839327628,
+  "ufrf_test_MSE": 1.3841805839327628,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.003451005048362906,
+  "used_ufrf": false,
+  "tau_est": -4.804859990980225e-10,
+  "phi0_est": -0.4472419413114274
+}

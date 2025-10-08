@@ -1,0 +1,25 @@
+{
+  "input": "RCER71H335K3M1H03A_DC0V_25degC_series.s2p",
+  "Sij": "S22",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "RLC series -> \u0393",
+    "R": 100.0,
+    "L": 1e-08,
+    "C": 5e-12,
+    "train_MSE": 0.8722961762617003,
+    "test_MSE": 0.8772184087487063
+  },
+  "ufrf_prior": {
+    "R": 150.0,
+    "L": 1.5000000000000002e-08,
+    "C": 7.5e-12,
+    "a": 0.2,
+    "phi": 0.0,
+    "train_MSE": 0.8608402404100983,
+    "test_MSE": 0.8596956182161838,
+    "improvement_percent": 1.9975402200596288
+  }
+}

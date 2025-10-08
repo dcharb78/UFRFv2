@@ -1,0 +1,19 @@
+{
+  "input": "RCER71H475K3A2H03B_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.008369078606071436
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.008394597125664085,
+    "improvement_percent": -0.3049143256240437
+  }
+}

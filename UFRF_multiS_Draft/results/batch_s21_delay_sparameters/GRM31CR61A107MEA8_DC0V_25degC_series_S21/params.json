@@ -1,0 +1,18 @@
+{
+  "input": "GRM31CR61A107MEA8_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.3011048267558704,
+  "ufrf_test_MSE": 0.3011048267558704,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.0052307770246189005,
+  "used_ufrf": false,
+  "tau_est": 3.363904420369368e-11,
+  "phi0_est": 0.015629056972190972
+}

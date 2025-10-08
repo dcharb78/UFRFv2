@@ -1,0 +1,19 @@
+{
+  "input": "RHEL81H335K3DBH03A_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.010439868705974756
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.010460067242373448,
+    "improvement_percent": -0.19347500402119247
+  }
+}

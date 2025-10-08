@@ -1,0 +1,18 @@
+{
+  "input": "GRM21BC80E107ME15_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.3257750140926188,
+  "ufrf_test_MSE": 0.3257750140926188,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.005250943329469324,
+  "used_ufrf": false,
+  "tau_est": 3.6456588223924336e-11,
+  "phi0_est": 0.01807979089665816
+}

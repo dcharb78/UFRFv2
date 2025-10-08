@@ -1,0 +1,10 @@
+# S-parameter Predictive-Prior Test — GRM32ER60G337ME05_DC0V_25degC_series.s2p (S11)
+- Z0: 50.00 Ω
+- Train points: 320  |  Test points: 81
+
+## Baseline
+- {'model': 'RLC series -> Γ', 'R': 76.70588235294117, 'L': 1.4200000000000003e-09, 'C': 5e-12, 'train_MSE': 0.8278345066962192, 'test_MSE': 0.8239096226501824}
+
+## UFRF Prior
+- {'R': 71.22689075630252, 'L': 1.3185714285714288e-09, 'C': 7.5e-12, 'a': 0.2, 'phi': 0.6283185307179586, 'train_MSE': np.float64(0.8059084816255424), 'test_MSE': 0.8023367894787501, 'improvement_percent': 2.6183494619277887}
+**Held-out improvement:** 2.62%

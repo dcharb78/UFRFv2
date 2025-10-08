@@ -1,0 +1,1 @@
+# Delay-aware S21 test — RDEC71E226K3S1H03A_DC0V_25degC_series.s2p\n- split: block, test_points: 80\n- baseline_test_MSE: 1.36746\n- ufrf_test_MSE: 1.36746\n- improvement: 0.00%\n- tau_est: 4.5642e-09 s, phi0_est: 0.091 rad\n- used_ufrf: False (gate=0.02, train_gain=0.0024)\n

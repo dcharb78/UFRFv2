@@ -1,0 +1,19 @@
+{
+  "input": "RDEC71H106K3K1H03B_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.004867871163602959
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.004869273245734035,
+    "improvement_percent": -0.028802778133484273
+  }
+}

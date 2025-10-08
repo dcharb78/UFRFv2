@@ -1,0 +1,17 @@
+{
+  "input": "NFZ32BW881HN10_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": -4.8284107892205273e-11,
+    "phi0": -0.2597860539719525,
+    "train_MSE": 0.0106975378893554,
+    "test_MSE": 0.012201020506314688
+  },
+  "train_improvement_percent": 0.3056521015537552,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

@@ -1,0 +1,19 @@
+{
+  "input": "GRM32EE70G107ME19_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.00042893317364442305
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.00042701278575322876,
+    "improvement_percent": 0.44771260634325777
+  }
+}

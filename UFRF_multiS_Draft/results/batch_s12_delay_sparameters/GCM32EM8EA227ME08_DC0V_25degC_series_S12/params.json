@@ -1,0 +1,17 @@
+{
+  "input": "GCM32EM8EA227ME08_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 3.35772659455256e-12,
+    "phi0": -0.0054507495687775975,
+    "train_MSE": 9.36473487556083e-05,
+    "test_MSE": 0.00014907440975793197
+  },
+  "train_improvement_percent": 0.15365370143425702,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

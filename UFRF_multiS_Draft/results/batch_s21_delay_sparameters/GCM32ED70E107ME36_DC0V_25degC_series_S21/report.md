@@ -1,0 +1,1 @@
+# Delay-aware S21 test — GCM32ED70E107ME36_DC0V_25degC_series.s2p\n- split: block, test_points: 80\n- baseline_test_MSE: 0.324154\n- ufrf_test_MSE: 0.324154\n- improvement: 0.00%\n- tau_est: 3.5785e-11 s, phi0_est: 0.017 rad\n- used_ufrf: False (gate=0.02, train_gain=0.0052)\n

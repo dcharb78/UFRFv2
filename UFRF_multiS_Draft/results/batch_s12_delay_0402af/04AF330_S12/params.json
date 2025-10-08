@@ -1,0 +1,17 @@
+{
+  "input": "04AF330.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 152,
+  "test_points": 37,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 1.1387121045985017e-11,
+    "phi0": 0.1703338764507167,
+    "train_MSE": 0.004617242501524371,
+    "test_MSE": 0.0049607246740797275
+  },
+  "train_improvement_percent": 0.1806282342492896,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

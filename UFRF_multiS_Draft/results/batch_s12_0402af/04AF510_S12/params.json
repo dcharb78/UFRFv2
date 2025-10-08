@@ -1,0 +1,19 @@
+{
+  "input": "04AF510.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 152,
+  "test_points": 37,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.0071474058190164474
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.007164813969157767,
+    "improvement_percent": -0.24355900003611455
+  }
+}

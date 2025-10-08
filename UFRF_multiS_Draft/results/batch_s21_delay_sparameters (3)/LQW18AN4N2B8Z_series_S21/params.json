@@ -1,0 +1,18 @@
+{
+  "input": "LQW18AN4N2B8Z_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.24206856129056917,
+  "ufrf_test_MSE": 0.24206856129056917,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.0030732367746281936,
+  "used_ufrf": false,
+  "tau_est": 3.072180450432472e-11,
+  "phi0_est": -0.022223887269411692
+}

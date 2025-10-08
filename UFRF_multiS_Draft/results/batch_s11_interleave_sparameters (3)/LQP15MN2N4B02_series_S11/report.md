@@ -1,0 +1,10 @@
+# S-parameter Predictive-Prior Test — LQP15MN2N4B02_series.s2p (S11)
+- Z0: 50.00 Ω
+- Train points: 320  |  Test points: 81
+
+## Baseline
+- {'model': 'RLC series -> Γ', 'R': 76.70588235294117, 'L': 3.4000000000000007e-09, 'C': 5e-12, 'train_MSE': 0.29756674250851023, 'test_MSE': 0.3012241947087884}
+
+## UFRF Prior
+- {'R': 71.22689075630252, 'L': 3.157142857142858e-09, 'C': 7.5e-12, 'a': 0.2, 'phi': 3.141592653589793, 'train_MSE': np.float64(0.23717826962408736), 'test_MSE': 0.24151642252965372, 'improvement_percent': 19.821705303871028}
+**Held-out improvement:** 19.82%

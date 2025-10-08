@@ -1,0 +1,10 @@
+# S-parameter Predictive-Prior Test — 04AF271.s2p (S11)
+- Z0: 50.00 Ω
+- Train points: 151  |  Test points: 38
+
+## Baseline
+- {'model': 'RLC series -> Γ', 'R': 100.0, 'L': 1e-10, 'C': 2e-13, 'train_MSE': 0.48347137682918084, 'test_MSE': 0.4916513821389228}
+
+## UFRF Prior
+- {'R': 150.0, 'L': 5e-11, 'C': 1e-13, 'a': 0.08, 'phi': 2.5132741228718345, 'train_MSE': np.float64(0.46620952318150627), 'test_MSE': 0.47551887348096517, 'improvement_percent': 3.281290207661648}
+**Held-out improvement:** 3.28%

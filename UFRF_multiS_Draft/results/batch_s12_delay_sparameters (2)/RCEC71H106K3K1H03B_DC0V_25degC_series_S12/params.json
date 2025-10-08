@@ -1,0 +1,17 @@
+{
+  "input": "RCEC71H106K3K1H03B_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 4.402307522100336e-10,
+    "phi0": -0.1182959516909544,
+    "train_MSE": 0.004132329699005505,
+    "test_MSE": 0.005437090976392367
+  },
+  "train_improvement_percent": 0.37098141270217605,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

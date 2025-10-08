@@ -1,0 +1,18 @@
+{
+  "input": "NFZ5BBW450LZ10_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 1.6298012000456972,
+  "ufrf_test_MSE": 1.6298012000456972,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.004248195552890217,
+  "used_ufrf": false,
+  "tau_est": -6.089502231110171e-10,
+  "phi0_est": -0.6319718685573916
+}

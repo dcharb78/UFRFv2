@@ -1,0 +1,17 @@
+{
+  "input": "GRM32EC80E227ME05_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 5.529875811125583e-12,
+    "phi0": -0.007226490847269987,
+    "train_MSE": 0.0004806657020422078,
+    "test_MSE": 0.0006487417785950687
+  },
+  "train_improvement_percent": 1.3516757450940302,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

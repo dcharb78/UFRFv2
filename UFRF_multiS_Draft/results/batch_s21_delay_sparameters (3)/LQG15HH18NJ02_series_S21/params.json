@@ -1,0 +1,18 @@
+{
+  "input": "LQG15HH18NJ02_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 1.2931306327874084,
+  "ufrf_test_MSE": 1.2931306327874084,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.018720196601428114,
+  "used_ufrf": false,
+  "tau_est": -2.974316345038901e-11,
+  "phi0_est": -0.40758410167291514
+}

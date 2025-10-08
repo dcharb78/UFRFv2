@@ -1,0 +1,10 @@
+# S-parameter Predictive-Prior Test — 0603CT_1N2.s2p (S11)
+- Z0: 50.00 Ω
+- Train points: 818  |  Test points: 205
+
+## Baseline
+- {'model': 'RLC series -> Γ', 'R': 70.88235294117646, 'L': 1.4200000000000003e-09, 'C': 5e-12, 'train_MSE': 0.5572483800196539, 'test_MSE': 0.5583228111021817}
+
+## UFRF Prior
+- {'R': 65.81932773109243, 'L': 1.7242857142857143e-09, 'C': 7.5e-12, 'a': 0.2, 'phi': 3.141592653589793, 'train_MSE': np.float64(0.517364206937482), 'test_MSE': 0.5185344514281279, 'improvement_percent': 7.126407677219536}
+**Held-out improvement:** 7.13%

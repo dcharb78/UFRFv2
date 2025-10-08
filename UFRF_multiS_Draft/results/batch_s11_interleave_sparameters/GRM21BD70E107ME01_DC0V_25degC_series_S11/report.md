@@ -1,0 +1,10 @@
+# S-parameter Predictive-Prior Test — GRM21BD70E107ME01_DC0V_25degC_series.s2p (S11)
+- Z0: 50.00 Ω
+- Train points: 320  |  Test points: 81
+
+## Baseline
+- {'model': 'RLC series -> Γ', 'R': 70.88235294117646, 'L': 7.600000000000001e-10, 'C': 5e-12, 'train_MSE': 0.8273354042399115, 'test_MSE': 0.8232095675885195}
+
+## UFRF Prior
+- {'R': 65.81932773109243, 'L': 9.22857142857143e-10, 'C': 7.5e-12, 'a': 0.2, 'phi': 0.0, 'train_MSE': np.float64(0.8053143290612217), 'test_MSE': 0.8015652723304828, 'improvement_percent': 2.6292570094199346}
+**Held-out improvement:** 2.63%

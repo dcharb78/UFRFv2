@@ -1,0 +1,17 @@
+{
+  "input": "04AF201.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 282,
+  "test_points": 70,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 2.47950129407644e-11,
+    "phi0": 0.4342804622705483,
+    "train_MSE": 0.007120887753996112,
+    "test_MSE": 0.0071051783085516315
+  },
+  "train_improvement_percent": 0.07572425171589828,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

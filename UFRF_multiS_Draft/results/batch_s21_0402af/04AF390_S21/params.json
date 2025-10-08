@@ -1,0 +1,19 @@
+{
+  "input": "04AF390.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 152,
+  "test_points": 37,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.006040067875868792
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.006050072229423293,
+    "improvement_percent": -0.1656331312843378
+  }
+}

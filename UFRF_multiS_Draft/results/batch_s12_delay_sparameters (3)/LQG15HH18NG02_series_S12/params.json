@@ -1,0 +1,17 @@
+{
+  "input": "LQG15HH18NG02_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": -1.0468071204129651e-11,
+    "phi0": 0.2917816045230074,
+    "train_MSE": 0.0694854663941833,
+    "test_MSE": 0.07779768572193335
+  },
+  "train_improvement_percent": 0.5533767114510212,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

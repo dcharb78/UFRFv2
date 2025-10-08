@@ -1,0 +1,3 @@
+Model,MSE_complex
+"Baseline (delay-aware, no ripple)",2.150657516275723
+Delay-aware + UFRF prior,2.150657516275723

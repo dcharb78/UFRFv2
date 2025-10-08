@@ -1,0 +1,18 @@
+{
+  "input": "NFZ32BW8R4HZ11_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 2.107290846429359,
+  "ufrf_test_MSE": 2.107290846429359,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.003574620526340412,
+  "used_ufrf": false,
+  "tau_est": -5.29839572778313e-10,
+  "phi0_est": -0.4682009348039766
+}

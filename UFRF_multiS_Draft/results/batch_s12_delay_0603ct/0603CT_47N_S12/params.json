@@ -1,0 +1,17 @@
+{
+  "input": "0603CT_47N.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 692,
+  "test_points": 173,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 3.437790972170258e-11,
+    "phi0": 0.3301786275413179,
+    "train_MSE": 0.008313463413746678,
+    "test_MSE": 0.008180208778359312
+  },
+  "train_improvement_percent": 0.09865238773306206,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

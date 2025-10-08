@@ -1,0 +1,18 @@
+{
+  "input": "NFZ5BBW970LZ10_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 1.3687645818198624,
+  "ufrf_test_MSE": 1.3687645818198624,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.0051994787746494535,
+  "used_ufrf": false,
+  "tau_est": -6.003053280915277e-10,
+  "phi0_est": -0.6431188958875542
+}

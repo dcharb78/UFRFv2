@@ -1,0 +1,18 @@
+{
+  "input": "RHEL81H335K3DBH03A_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 2.3623469356855624,
+  "ufrf_test_MSE": 2.3623469356855624,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.006343411169392685,
+  "used_ufrf": false,
+  "tau_est": 9.566207379651108e-09,
+  "phi0_est": 0.19255424655284856
+}

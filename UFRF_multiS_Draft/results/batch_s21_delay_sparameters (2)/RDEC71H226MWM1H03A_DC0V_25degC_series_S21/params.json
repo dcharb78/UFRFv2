@@ -1,0 +1,18 @@
+{
+  "input": "RDEC71H226MWM1H03A_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 1.1284470030827856,
+  "ufrf_test_MSE": 1.1284470030827856,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.0028499289029145646,
+  "used_ufrf": false,
+  "tau_est": 4.002142006461155e-09,
+  "phi0_est": 0.07924454953633353
+}

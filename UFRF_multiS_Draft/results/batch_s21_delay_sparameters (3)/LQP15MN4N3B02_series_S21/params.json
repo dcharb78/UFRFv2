@@ -1,0 +1,18 @@
+{
+  "input": "LQP15MN4N3B02_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.1454669926995605,
+  "ufrf_test_MSE": 0.1454669926995605,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.002670844548163406,
+  "used_ufrf": false,
+  "tau_est": 3.323427616539278e-11,
+  "phi0_est": -0.016575269770603644
+}

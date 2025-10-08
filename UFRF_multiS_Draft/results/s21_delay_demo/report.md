@@ -1,0 +1,1 @@
+# Delay-aware S21 test — 0603CT_22N.s2p\n- split: block, test_points: 177\n- baseline_test_MSE: 0.282009\n- ufrf_test_MSE: 0.282009\n- improvement: 0.00%\n- tau_est: 1.6739e-10 s, phi0_est: -0.018 rad\n- used_ufrf: False (gate=0.02, train_gain=0.0046)\n

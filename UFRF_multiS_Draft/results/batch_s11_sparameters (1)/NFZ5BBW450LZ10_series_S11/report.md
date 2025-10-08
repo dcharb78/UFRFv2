@@ -1,0 +1,10 @@
+# S-parameter Predictive-Prior Test — NFZ5BBW450LZ10_series.s2p (S11)
+- Z0: 50.00 Ω
+- Train points: 321  |  Test points: 80
+
+## Baseline
+- {'model': 'RLC series -> Γ', 'R': 82.52941176470588, 'L': 4.0600000000000005e-09, 'C': 2.44e-12, 'train_MSE': 0.1248262021556179, 'test_MSE': 0.12313281820550351}
+
+## UFRF Prior
+- {'R': 88.42436974789916, 'L': 3.77e-09, 'C': 2.6142857142857146e-12, 'a': 0.0, 'phi': 0.0, 'train_MSE': np.float64(0.1250709338981476), 'test_MSE': 0.1228277767816532, 'improvement_percent': 0.24773364915696694}
+**Held-out improvement:** 0.25%

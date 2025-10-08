@@ -1,0 +1,3 @@
+Model,MSE_complex
+Baseline (test),0.819736383425111
+UFRF prior (test),0.8062755635386155

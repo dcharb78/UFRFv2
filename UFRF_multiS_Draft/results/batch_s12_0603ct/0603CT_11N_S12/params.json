@@ -1,0 +1,19 @@
+{
+  "input": "0603CT_11N.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 727,
+  "test_points": 181,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.009696269946760368
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.009717590580038392,
+    "improvement_percent": -0.2198848979565307
+  }
+}

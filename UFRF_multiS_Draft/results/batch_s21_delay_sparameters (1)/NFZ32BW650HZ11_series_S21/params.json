@@ -1,0 +1,18 @@
+{
+  "input": "NFZ32BW650HZ11_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 1.960232808621683,
+  "ufrf_test_MSE": 1.960232808621683,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.003263238155737996,
+  "used_ufrf": false,
+  "tau_est": -7.844885566545901e-10,
+  "phi0_est": -0.8301402942432915
+}

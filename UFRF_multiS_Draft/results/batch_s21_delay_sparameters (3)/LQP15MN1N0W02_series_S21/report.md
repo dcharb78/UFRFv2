@@ -1,0 +1,1 @@
+# Delay-aware S21 test — LQP15MN1N0W02_series.s2p\n- split: block, test_points: 80\n- baseline_test_MSE: 0.618488\n- ufrf_test_MSE: 0.618488\n- improvement: 0.00%\n- tau_est: 6.0431e-12 s, phi0_est: -0.000 rad\n- used_ufrf: False (gate=0.02, train_gain=0.0038)\n

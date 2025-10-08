@@ -1,0 +1,18 @@
+{
+  "input": "04AF780.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 37,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.24782567375003983,
+  "ufrf_test_MSE": 0.24782567375003983,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.003219848772826056,
+  "used_ufrf": false,
+  "tau_est": 2.0802122891101416e-10,
+  "phi0_est": -0.10227836652669058
+}

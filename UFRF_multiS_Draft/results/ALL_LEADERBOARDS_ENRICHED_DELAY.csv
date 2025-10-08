@@ -1,0 +1,339 @@
+file,Sij,gated,train_improvement_percent,improvement_percent,device_type,family,freq_min_GHz,freq_max_GHz,leaderboard
+RCEC71H106K3A2H03B_DC0V_25degC_series.s2p,S21,False,0.3711668876479516,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H106K3DBH03A_DC0V_25degC_series.s2p,S21,False,0.3711668876479516,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H106K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.370981412702176,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H106K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.370981412702176,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H226MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.2211849928689658,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H226MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.2211849928689658,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H475K2A2H03B_DC0V_25degC_series.s2p,S21,False,0.4118351869314654,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H475K2DBH03A_DC0V_25degC_series.s2p,S21,False,0.4118351869314654,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H475K2K1H03B_DC0V_25degC_series.s2p,S21,False,0.4117869841503089,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC71H475K2M1H03A_DC0V_25degC_series.s2p,S21,False,0.4117869841503089,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC72A475K3A3H03B_DC0V_25degC_series.s2p,S21,False,0.4142812314169066,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC72A475K3DNH03A_DC0V_25degC_series.s2p,S21,False,0.4142812314169066,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC72A475K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.4142388370294995,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC72A475K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.4142388370294995,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC72A475MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.4031072946649364,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCEC72A475MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.4031072946649364,,passive,RCEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E106K3A2H03B_DC0V_25degC_series.s2p,S21,False,0.3672126920241725,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E106K3DBH03A_DC0V_25degC_series.s2p,S21,False,0.3672126920241725,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E106K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.3670251272238399,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E106K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.3670251272238399,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E226MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.2241305332835105,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E226MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.2241305332835105,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E335K2M1H03A_DC0V_25degC_series.s2p,S21,False,0.3650728654424717,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E475K2A2H03B_DC0V_25degC_series.s2p,S21,False,0.4156583093085942,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E475K2DBH03A_DC0V_25degC_series.s2p,S21,False,0.4156583093085942,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E475K2K1H03B_DC0V_25degC_series.s2p,S21,False,0.4156040780204129,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71E475K2M1H03A_DC0V_25degC_series.s2p,S21,False,0.4156040780204129,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H106MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.3810874851977355,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H106MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.3810874851977355,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H335K3A2H03B_DC0V_25degC_series.s2p,S21,False,0.3599897726835687,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H335K3DBH03A_DC0V_25degC_series.s2p,S21,False,0.3599897726835687,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H335K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.3624503342318628,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H335K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.3624503342318628,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H475K3A2H03B_DC0V_25degC_series.s2p,S21,False,0.415850667573331,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H475K3DBH03A_DC0V_25degC_series.s2p,S21,False,0.415850667573331,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H475K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.4158035670256559,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RCER71H475K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.4158035670256559,,passive,RCER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E106K2K1H03B_DC0V_25degC_series.s2p,S21,False,0.3743014543301696,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E106K2M1H03A_DC0V_25degC_series.s2p,S21,False,0.3743014543301696,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E106K2P1H03B_DC0V_25degC_series.s2p,S21,False,0.374419748489644,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E106K2S1H03A_DC0V_25degC_series.s2p,S21,False,0.374419748489644,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E226K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.2460503906028888,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E226K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.2460503906028888,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E226K3P1H03B_DC0V_25degC_series.s2p,S21,False,0.2461450544139123,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E226K3S1H03A_DC0V_25degC_series.s2p,S21,False,0.2461450544139123,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E475K2K1H03B_DC0V_25degC_series.s2p,S21,False,0.4150996442768794,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E475K2M1H03A_DC0V_25degC_series.s2p,S21,False,0.4150996442768794,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E475K2P1H03B_DC0V_25degC_series.s2p,S21,False,0.4151267431987734,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E475K2S1H03A_DC0V_25degC_series.s2p,S21,False,0.4151267431987734,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E476MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.1485614541579497,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71E476MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.1485614541579497,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H106K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.3765823219622989,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H106K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.3765823219622989,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H106K3P1H03B_DC0V_25degC_series.s2p,S21,False,0.3766620299260972,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H106K3S1H03A_DC0V_25degC_series.s2p,S21,False,0.3766620299260972,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H226MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.2211849928689658,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H226MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.2211849928689658,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H475K2K1H03B_DC0V_25degC_series.s2p,S21,False,0.4143317988119381,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H475K2M1H03A_DC0V_25degC_series.s2p,S21,False,0.4143317988119381,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H475K2P1H03B_DC0V_25degC_series.s2p,S21,False,0.4143582423550561,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC71H475K2S1H03A_DC0V_25degC_series.s2p,S21,False,0.4143582423550561,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC72A475K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.4141178473122919,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC72A475K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.4141178473122919,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC72A475K3P1H03B_DC0V_25degC_series.s2p,S21,False,0.4141340292495871,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC72A475K3S1H03A_DC0V_25degC_series.s2p,S21,False,0.4141340292495871,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC72A475MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.4031072946649364,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDEC72A475MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.4031072946649364,,passive,RDEC,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDER71H335K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.3624502162475703,,passive,RDER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDER71H335K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.3624502162475703,,passive,RDER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDER71H335K3P1H03B_DC0V_25degC_series.s2p,S21,False,0.3644617739587722,,passive,RDER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RDER71H335K3S1H03A_DC0V_25degC_series.s2p,S21,False,0.3644617739587722,,passive,RDER,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81E106K3A2H03B_DC0V_25degC_series.s2p,S21,False,0.3672125553773754,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81E106K3DBH03A_DC0V_25degC_series.s2p,S21,False,0.3672125553773754,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81E106K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.3670250327761686,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81E106K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.3670250327761686,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81E226MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.2241305332835105,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81E226MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.2241305332835105,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H106MWK1H03B_DC0V_25degC_series.s2p,S21,False,0.3843038399632936,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H106MWM1H03A_DC0V_25degC_series.s2p,S21,False,0.3843038399632936,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H335K3A2H03B_DC0V_25degC_series.s2p,S21,False,0.3667364959743583,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H335K3DBH03A_DC0V_25degC_series.s2p,S21,False,0.3667364959743583,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H335K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.3624502162475703,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H335K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.3624502162475703,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H475K3A2H03B_DC0V_25degC_series.s2p,S21,False,0.415850667573331,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H475K3DBH03A_DC0V_25degC_series.s2p,S21,False,0.415850667573331,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H475K3K1H03B_DC0V_25degC_series.s2p,S21,False,0.4158035670256559,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+RHEL81H475K3M1H03A_DC0V_25degC_series.s2p,S21,False,0.4158035670256559,,passive,RHEL,1e-07,0.1,results/batch_s21_delay_sparameters (2)/leaderboard.csv
+BLE18PK100SN1_series.s2p,S21,False,0.2511878378632766,,passive,BLE,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+BLE18PK160SN1_series.s2p,S21,False,0.3260524500637321,,passive,BLE,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+BLE18PS080BH1_series.s2p,S21,False,0.1302766920242906,,passive,BLE,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+BLE18PS080SH1_series.s2p,S21,False,0.1302766920242906,,passive,BLE,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+BLE18PS080SN1_series.s2p,S21,False,0.1302766920242906,,passive,BLE,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+BLE18PS080SZ1_series.s2p,S21,False,0.1302766920242906,,passive,BLE,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+BLE32PN260SH1_series.s2p,S21,False,0.1445459525214282,,passive,BLE,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW451HZ10_series.s2p,S21,False,0.4309361353919226,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW520HN11_series.s2p,S21,False,0.5308481913315408,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW520HZ11_series.s2p,S21,False,0.5308481913315408,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW621HN10_series.s2p,S21,False,0.3785629105350746,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW621HZ10_series.s2p,S21,False,0.3785629105350746,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW650HN11_series.s2p,S21,False,0.5649073775060998,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW650HZ11_series.s2p,S21,False,0.5649073775060998,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW6R8HN11_series.s2p,S21,False,0.4176107495570612,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW6R8HZ11_series.s2p,S21,False,0.4176107495570612,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW700HN10_series.s2p,S21,False,0.621066042828772,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW700HZ10_series.s2p,S21,False,0.621066042828772,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW7R4HN10_series.s2p,S21,False,0.4330167860503187,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW7R4HZ10_series.s2p,S21,False,0.4330167860503187,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW881HN10_series.s2p,S21,False,0.3056521015537552,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW881HZ10_series.s2p,S21,False,0.3056521015537552,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW8R4HN11_series.s2p,S21,False,0.3175813179040582,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW8R4HZ11_series.s2p,S21,False,0.3175813179040582,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW9R0HN10_series.s2p,S21,False,0.4813369413930743,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW9R0HZ10_series.s2p,S21,False,0.4813369413930743,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW9R8HN11_series.s2p,S21,False,0.4097065645136584,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32BW9R8HZ11_series.s2p,S21,False,0.4097065645136584,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32SW301HN10_series.s2p,S21,False,0.4671439513933115,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ32SW901HN10_series.s2p,S21,False,0.4330167860503187,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW100LN10_series.s2p,S21,False,0.1877144305272281,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW100LZ10_series.s2p,S21,False,0.1877144305272281,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW140LN10_series.s2p,S21,False,0.173760880296414,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW140LZ10_series.s2p,S21,False,0.173760880296414,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW141LN10_series.s2p,S21,False,0.1880202321216548,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW141LZ10_series.s2p,S21,False,0.1880202321216548,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW170LN10_series.s2p,S21,False,0.196506865506965,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW170LZ10_series.s2p,S21,False,0.196506865506965,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW220LN10_series.s2p,S21,False,0.2008729755713968,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW220LZ10_series.s2p,S21,False,0.2008729755713968,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW2R9LN10_series.s2p,S21,False,0.139237594923124,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW2R9LZ10_series.s2p,S21,False,0.139237594923124,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW310LN10_series.s2p,S21,False,0.1687743346092641,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW310LZ10_series.s2p,S21,False,0.1687743346092641,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW450LN10_series.s2p,S21,False,0.1622555753831028,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW450LZ10_series.s2p,S21,False,0.1622555753831028,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW4R5LN10_series.s2p,S21,False,0.2409874030573267,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW4R5LZ10_series.s2p,S21,False,0.2409874030573267,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW520LN10_series.s2p,S21,False,0.1378112635161368,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW520LZ10_series.s2p,S21,False,0.1378112635161368,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW610LN10_series.s2p,S21,False,0.1546019664371236,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW610LZ10_series.s2p,S21,False,0.1546019664371236,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW6R7LN10_series.s2p,S21,False,0.4922890240899864,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW6R7LZ10_series.s2p,S21,False,0.4922890240899864,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW7R6LN10_series.s2p,S21,False,0.4922890240899864,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW7R6LZ10_series.s2p,S21,False,0.4922890240899864,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW970LN10_series.s2p,S21,False,0.1919524187282885,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+NFZ5BBW970LZ10_series.s2p,S21,False,0.1919524187282885,,passive,NFZ,0.001,3.0,results/batch_s21_delay_sparameters (1)/leaderboard.csv
+0603CT_10N.s2p,S21,False,0.0902415641478652,,passive,unknown,0.001,8.5,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_11N.s2p,S21,False,0.2841767326510378,,passive,unknown,0.001,8.3,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_12N.s2p,S21,False,0.1712773212060605,,passive,unknown,0.001,8.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_15N.s2p,S21,False,0.2712445691196321,,passive,unknown,0.001,7.5,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_16N.s2p,S21,False,0.3139127306965618,,passive,unknown,0.001,7.3,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_18N.s2p,S21,False,0.3327799950415321,,passive,unknown,0.001,7.3,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_1N0.s2p,S21,False,0.597598984547899,,passive,unknown,0.001,26.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_1N2.s2p,S21,False,0.4683915515105342,,passive,unknown,0.001,26.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_20N.s2p,S21,False,0.3869998698386724,,passive,unknown,0.001,7.3,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_22N.s2p,S21,False,0.3379099312830487,,passive,unknown,0.001,6.7,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_24N.s2p,S21,False,0.3470007418216339,,passive,unknown,0.001,6.5,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_27N.s2p,S21,False,0.392313279616486,,passive,unknown,0.001,6.5,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_2N0.s2p,S21,False,0.4467032621861632,,passive,unknown,0.001,18.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_2N2.s2p,S21,False,0.7446533250661537,,passive,unknown,0.001,17.5,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_2N3.s2p,S21,False,0.678248526959863,,passive,unknown,0.001,17.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_2N5.s2p,S21,False,0.6353908882416018,,passive,unknown,0.001,17.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_30N.s2p,S21,False,0.1459903622123066,,passive,unknown,0.001,5.8,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_33N.s2p,S21,False,0.1248360722847056,,passive,unknown,0.001,5.6,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_36N.s2p,S21,False,0.1247654103755677,,passive,unknown,0.001,5.6,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_39N.s2p,S21,False,0.1191859955827763,,passive,unknown,0.001,5.5,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_3N0.s2p,S21,False,0.277925501007743,,passive,unknown,0.001,17.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_3N3.s2p,S21,False,0.1546095960020789,,passive,unknown,0.001,16.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_3N6.s2p,S21,False,0.1660032586425382,,passive,unknown,0.001,16.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_3N9.s2p,S21,False,0.2336686087251814,,passive,unknown,0.001,14.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_43N.s2p,S21,False,0.1083252196201377,,passive,unknown,0.001,5.5,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_47N.s2p,S21,False,0.098652387733062,,passive,unknown,0.001,5.4,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_4N3.s2p,S21,False,0.2819238860531623,,passive,unknown,0.001,14.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_4N7.s2p,S21,False,0.2749431485448113,,passive,unknown,0.001,15.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_51N.s2p,S21,False,0.0957544589760316,,passive,unknown,0.001,5.4,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_56N.s2p,S21,False,0.0763768210468956,,passive,unknown,0.001,5.4,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_5N1.s2p,S21,False,0.1286106642071838,,passive,unknown,0.001,16.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_5N6.s2p,S21,False,0.1747744709536735,,passive,unknown,0.001,13.0,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_6N8.s2p,S21,False,0.1687780431241714,,passive,unknown,0.001,9.7,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_7N2.s2p,S21,False,0.2449788648149993,,passive,unknown,0.001,9.7,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_8N2.s2p,S21,False,0.2122745427931662,,passive,unknown,0.001,9.7,results/batch_s21_delay_0603ct/leaderboard.csv
+0603CT_9N5.s2p,S21,False,0.1622169836800621,,passive,unknown,0.001,9.0,results/batch_s21_delay_0603ct/leaderboard.csv
+04AF101.s2p,S21,False,1.4690744710220436,,passive,unknown,0.001,1.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF141.s2p,S21,False,0.3043468501932044,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF181.s2p,S21,False,0.3317807661969839,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF200.s2p,S21,False,0.186571131271074,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF201.s2p,S21,False,0.0757242517158982,,passive,unknown,0.001,3.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF220.s2p,S21,False,0.1755049363726707,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF221.s2p,S21,False,0.3332031259531411,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF251.s2p,S21,False,0.3384544284089383,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF271.s2p,S21,False,0.3411148001901253,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF301.s2p,S21,False,0.3403721217123205,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF330.s2p,S21,False,0.1806282342492896,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF331.s2p,S21,False,0.072438102360008,,passive,unknown,0.001,3.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF360.s2p,S21,False,0.19415662802644,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF361.s2p,S21,False,0.3263754999985786,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF390.s2p,S21,False,0.1971417874684342,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF391.s2p,S21,False,0.0730359571436554,,passive,unknown,0.001,3.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF421.s2p,S21,False,0.3118984093273337,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF471.s2p,S21,False,0.2979467753143311,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF510.s2p,S21,False,0.2102066168004474,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF560.s2p,S21,False,0.2177890441103096,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF561.s2p,S21,False,0.2855292310395207,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF720.s2p,S21,False,0.2315667686043968,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+04AF780.s2p,S21,False,0.2291972786939967,,passive,unknown,0.001,6.0,results/batch_s21_delay_0402af/leaderboard.csv
+GCM32ED70E107ME36_DC0V_25degC_series.s2p,S21,False,0.0519529240553005,,passive,GCM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GCM32ED70E227ME35_DC0V_25degC_series.s2p,S21,False,0.153653701434257,,passive,GCM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GCM32ED70E227ME36_DC0V_25degC_series.s2p,S21,False,0.153653701434257,,passive,GCM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GCM32EM8EA227ME08_DC0V_25degC_series.s2p,S21,False,0.153653701434257,,passive,GCM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM21BC80E107ME15_DC0V_25degC_series.s2p,S21,False,0.3167710380874515,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM21BC80G107ME15_DC0V_25degC_series.s2p,S21,False,0.3167710380874515,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM21BD70E107ME01_DC0V_25degC_series.s2p,S21,False,0.3204753703154374,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM21BR60E107ME15_DC0V_25degC_series.s2p,S21,False,0.3167710380874515,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM21BR60G107ME11_DC0V_25degC_series.s2p,S21,False,0.3167710380874515,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM21BR60J107ME15_DC0V_25degC_series.s2p,S21,False,0.3167710380874515,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CC80E227ME11_DC0V_25degC_series.s2p,S21,False,0.1520179040984492,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CC80G227ME11_DC0V_25degC_series.s2p,S21,False,0.1520179040984492,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CD80G107MEA8_DC0V_25degC_series.s2p,S21,False,0.0762018677380529,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CD80J107MEA8_DC0V_25degC_series.s2p,S21,False,0.0762018677380529,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CR60E227ME11_DC0V_25degC_series.s2p,S21,False,0.1520179040984492,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CR60G107MEA8_DC0V_25degC_series.s2p,S21,False,0.0762018677380529,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CR60G227ME11_DC0V_25degC_series.s2p,S21,False,0.1520179040984492,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CR60J107KEA8_DC0V_25degC_series.s2p,S21,False,0.0762018677380529,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CR60J107MEA8_DC0V_25degC_series.s2p,S21,False,0.0762018677380529,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CR60J227ME11_DC0V_25degC_series.s2p,S21,False,0.1520179040984492,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM31CR61A107MEA8_DC0V_25degC_series.s2p,S21,False,0.0762018677380529,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EB30J107ME16_DC0V_20degC_series.s2p,S21,False,0.1223469723620767,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC70G107ME15_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC70J107ME15_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC80E227ME05_DC0V_25degC_series.s2p,S21,False,1.3516757450940302,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC80E337ME05_DC0V_25degC_series.s2p,S21,False,1.1713191862677204,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC80G107KE20_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC80G107ME20_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC80G227ME05_DC0V_25degC_series.s2p,S21,False,1.3516757450940302,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC80J107ME20_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EC80J227ME01_DC0V_25degC_series.s2p,S21,False,0.358215582870423,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ED70E227ME01_DC0V_25degC_series.s2p,S21,False,0.358215582870423,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ED70G227ME01_DC0V_25degC_series.s2p,S21,False,0.358215582870423,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EE70G107ME19_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32EE70J107ME15_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ER60E337ME05_DC0V_25degC_series.s2p,S21,False,1.1713191862677204,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ER60G227ME05_DC0V_25degC_series.s2p,S21,False,1.3516757450940302,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ER60G337ME05_DC0V_25degC_series.s2p,S21,False,1.1713191862677204,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ER60J107ME20_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ER60J227ME05_DC0V_25degC_series.s2p,S21,False,1.3516757450940302,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRM32ER61A107ME20_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRT32EC70G107ME13_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRT,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRT32EC70J107ME13_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRT,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+GRT32ER60J107ME13_DC0V_25degC_series.s2p,S21,False,0.1257555278189497,,passive,GRT,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+KCM55WC71E107MH13_DC0V_25degC_series.s2p,S21,True,2.1690173832795354,2.8994743337640543,passive,KCM,1e-07,3.0,results/batch_s21_delay_sparameters/leaderboard.csv
+KCM55WR71E686MH01_DC0V_25degC_series.s2p,S21,True,4.044545391563579,4.457928483840806,passive,KCM,1e-07,6.0,results/batch_s21_delay_sparameters/leaderboard.csv
+KRM55WC71E107MH13_DC0V_25degC_series.s2p,S21,True,2.1690173832795354,2.8994743337640543,passive,KRM,1e-07,3.0,results/batch_s21_delay_sparameters/leaderboard.csv
+LQG15HH10NH02_series.s2p,S21,False,0.5792519852225495,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH10NJ02_series.s2p,S21,False,0.5792519852225495,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH12NG02_series.s2p,S21,False,0.359831274934613,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH12NH02_series.s2p,S21,False,0.359831274934613,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH12NJ02_series.s2p,S21,False,0.359831274934613,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH15NG02_series.s2p,S21,False,0.0587945158088123,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH15NH02_series.s2p,S21,False,0.0587945158088123,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH15NJ02_series.s2p,S21,False,0.0587945158088123,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH18NG02_series.s2p,S21,False,0.5533767114510212,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH18NH02_series.s2p,S21,False,0.5533767114510212,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH18NJ02_series.s2p,S21,False,0.5533767114510212,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N0B02_series.s2p,S21,False,0.8091603885904561,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N0C02_series.s2p,S21,False,0.8091603885904561,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N0S02_series.s2p,S21,False,0.8091603885904561,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N1B02_series.s2p,S21,False,0.1749781521438377,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N1C02_series.s2p,S21,False,0.1749781521438377,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N1S02_series.s2p,S21,False,0.1749781521438377,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N2B02_series.s2p,S21,False,0.6531288699109219,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N2C02_series.s2p,S21,False,0.6531288699109219,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N2S02_series.s2p,S21,False,0.6531288699109219,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N3B02_series.s2p,S21,False,0.814242976326864,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N3C02_series.s2p,S21,False,0.814242976326864,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQG15HH1N3S02_series.s2p,S21,False,0.814242976326864,,passive,LQG,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP03TN0N6BZ2_series.s2p,S21,False,0.5472429847953652,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN10NG02_series.s2p,S21,False,0.3103210966149795,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN12NG02_series.s2p,S21,False,0.3209385781776368,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN15NG02_series.s2p,S21,False,0.3402758109264683,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN18NG02_series.s2p,S21,False,0.3562920107344937,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N0B02_series.s2p,S21,False,0.2626213848610013,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N0W02_series.s2p,S21,False,0.2626213848610013,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N1B02_series.s2p,S21,False,0.2460142046656193,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N1W02_series.s2p,S21,False,0.2460142046656193,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N2B02_series.s2p,S21,False,0.2098620162542686,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N2W02_series.s2p,S21,False,0.2098620162542686,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N3B02_series.s2p,S21,False,0.1782853121589455,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N3W02_series.s2p,S21,False,0.1782853121589455,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N4W02_series.s2p,S21,False,0.1435404259169733,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N5B02_series.s2p,S21,False,0.1184719063661216,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N5W02_series.s2p,S21,False,0.1184719063661216,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N6B02_series.s2p,S21,False,0.1050926578826278,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N6W02_series.s2p,S21,False,0.1050926578826278,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N7W02_series.s2p,S21,False,0.1018527741470904,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N8B02_series.s2p,S21,False,0.085513103471529,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N8W02_series.s2p,S21,False,0.085513103471529,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN1N9W02_series.s2p,S21,False,0.0731501606707943,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN22NG02_series.s2p,S21,False,0.3731161485052541,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN27NG02_series.s2p,S21,False,0.3885325771409557,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N0B02_series.s2p,S21,False,0.1151094818141334,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N0W02_series.s2p,S21,False,0.1151094818141334,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N1W02_series.s2p,S21,False,0.1838173093151746,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N2B02_series.s2p,S21,False,0.2371326927251393,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N2W02_series.s2p,S21,False,0.2371326927251393,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N3W02_series.s2p,S21,False,0.2443005324702691,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N4B02_series.s2p,S21,False,0.2804743188745193,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N4W02_series.s2p,S21,False,0.2804743188745193,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N5W02_series.s2p,S21,False,0.3898515767346762,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N6W02_series.s2p,S21,False,0.298044472719595,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N7B02_series.s2p,S21,False,0.2869957765668708,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N7W02_series.s2p,S21,False,0.2869957765668708,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N8W02_series.s2p,S21,False,0.2947468191995201,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN2N9W02_series.s2p,S21,False,0.2951447052071507,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN33NG02_series.s2p,S21,False,0.4004273966610657,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N0B02_series.s2p,S21,False,0.2893718480700731,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N0W02_series.s2p,S21,False,0.2893718480700731,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N1W02_series.s2p,S21,False,0.2848104244564489,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N2W02_series.s2p,S21,False,0.3091325726693919,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N3B02_series.s2p,S21,False,0.3109363858019921,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N3W02_series.s2p,S21,False,0.3109363858019921,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N4W02_series.s2p,S21,False,0.3090689621448307,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N5W02_series.s2p,S21,False,0.3079182403909838,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N6B02_series.s2p,S21,False,0.3079607930625497,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N6W02_series.s2p,S21,False,0.3079607930625497,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N7W02_series.s2p,S21,False,0.3054303794936768,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N8W02_series.s2p,S21,False,0.3122833858716529,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N9B02_series.s2p,S21,False,0.2961048934738612,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN3N9W02_series.s2p,S21,False,0.2961048934738612,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN4N3B02_series.s2p,S21,False,0.3035312951173187,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN4N7B02_series.s2p,S21,False,0.3008507661464695,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN5N1B02_series.s2p,S21,False,0.2953388100609688,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN5N6B02_series.s2p,S21,False,0.2971213917602658,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN6N2B02_series.s2p,S21,False,0.294502621736445,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN6N8B02_series.s2p,S21,False,0.2950307233776441,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN7N5B02_series.s2p,S21,False,0.2979186312021675,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN8N2B02_series.s2p,S21,False,0.2983941744864072,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQP15MN9N1B02_series.s2p,S21,False,0.302656237375673,,passive,LQP,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQW04CA90NK00_series.s2p,S21,False,0.2905634238119335,,passive,LQW,0.01,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv
+LQW18AN4N2B8Z_series.s2p,S21,False,0.1426907614238088,,passive,LQW,0.05,20.0,results/batch_s21_delay_sparameters (3)/leaderboard.csv

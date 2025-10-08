@@ -1,0 +1,17 @@
+{
+  "input": "GRM32ER60G337ME05_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 5.651495857272887e-12,
+    "phi0": -0.005874558446361742,
+    "train_MSE": 0.0005073253101787978,
+    "test_MSE": 0.0006823402639979106
+  },
+  "train_improvement_percent": 1.1713191862677204,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

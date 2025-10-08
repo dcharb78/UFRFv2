@@ -1,0 +1,17 @@
+{
+  "input": "NFZ32BW650HZ11_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": -1.0066995523906023e-10,
+    "phi0": 0.22243587270469437,
+    "train_MSE": 0.021982088172117987,
+    "test_MSE": 0.024840748882187024
+  },
+  "train_improvement_percent": 0.5649073775060998,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

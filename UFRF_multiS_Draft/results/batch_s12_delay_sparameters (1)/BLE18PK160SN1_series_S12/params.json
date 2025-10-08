@@ -1,0 +1,17 @@
+{
+  "input": "BLE18PK160SN1_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": -9.300844292346342e-12,
+    "phi0": 0.09042816824948442,
+    "train_MSE": 0.0011638664010912546,
+    "test_MSE": 0.001305728544271919
+  },
+  "train_improvement_percent": 0.3260524500637321,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

@@ -1,0 +1,25 @@
+{
+  "input": "RHEL81E106K3K1H03B_DC0V_25degC_series.s2p",
+  "Sij": "S22",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "RLC series -> \u0393",
+    "R": 100.0,
+    "L": 1e-08,
+    "C": 5e-12,
+    "train_MSE": 0.9442786311533579,
+    "test_MSE": 0.9489822163389423
+  },
+  "ufrf_prior": {
+    "R": 150.0,
+    "L": 1.5000000000000002e-08,
+    "C": 7.5e-12,
+    "a": 0.2,
+    "phi": 0.0,
+    "train_MSE": 0.9327988368968461,
+    "test_MSE": 0.9314247996011265,
+    "improvement_percent": 1.850131270694432
+  }
+}

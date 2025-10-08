@@ -1,0 +1,18 @@
+{
+  "input": "LQW04CA90NK00_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.22523795682981743,
+  "ufrf_test_MSE": 0.22523795682981743,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.002982888141843744,
+  "used_ufrf": false,
+  "tau_est": 3.006282913395878e-12,
+  "phi0_est": -0.3850644439859582
+}

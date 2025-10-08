@@ -1,0 +1,17 @@
+{
+  "input": "NFZ5BBW520LZ10_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": -4.10861862318997e-11,
+    "phi0": 0.16302008486072664,
+    "train_MSE": 0.016068674833302946,
+    "test_MSE": 0.015362778995172152
+  },
+  "train_improvement_percent": 0.13781126351613687,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

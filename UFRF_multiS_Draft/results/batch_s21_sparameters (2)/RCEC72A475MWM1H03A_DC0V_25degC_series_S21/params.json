@@ -1,0 +1,19 @@
+{
+  "input": "RCEC72A475MWM1H03A_DC0V_25degC_series.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 0.008982423789956541
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 0.009008195152030524,
+    "improvement_percent": -0.28690877514372337
+  }
+}

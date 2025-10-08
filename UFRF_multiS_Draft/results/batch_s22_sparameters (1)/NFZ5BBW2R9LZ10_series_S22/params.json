@@ -1,0 +1,25 @@
+{
+  "input": "NFZ5BBW2R9LZ10_series.s2p",
+  "Sij": "S22",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "RLC series -> \u0393",
+    "R": 100.0,
+    "L": 1e-10,
+    "C": 2e-13,
+    "train_MSE": 0.45034722286157064,
+    "test_MSE": 0.4358730726824945
+  },
+  "ufrf_prior": {
+    "R": 150.0,
+    "L": 5e-11,
+    "C": 1e-13,
+    "a": 0.04,
+    "phi": 3.141592653589793,
+    "train_MSE": 0.44537172196761304,
+    "test_MSE": 0.429807774729362,
+    "improvement_percent": 1.3915284823182152
+  }
+}

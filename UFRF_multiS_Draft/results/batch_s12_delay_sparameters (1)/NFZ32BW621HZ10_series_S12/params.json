@@ -1,0 +1,17 @@
+{
+  "input": "NFZ32BW621HZ10_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": -6.508210667399804e-11,
+    "phi0": -0.1492172955165776,
+    "train_MSE": 0.014720310506007098,
+    "test_MSE": 0.017074243741545373
+  },
+  "train_improvement_percent": 0.3785629105350746,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

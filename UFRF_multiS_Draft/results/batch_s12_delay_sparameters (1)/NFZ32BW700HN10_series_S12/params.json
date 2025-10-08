@@ -1,0 +1,17 @@
+{
+  "input": "NFZ32BW700HN10_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": -1.0792652885161937e-10,
+    "phi0": 0.24353443601181035,
+    "train_MSE": 0.023723510092580228,
+    "test_MSE": 0.027232916853908107
+  },
+  "train_improvement_percent": 0.621066042828772,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

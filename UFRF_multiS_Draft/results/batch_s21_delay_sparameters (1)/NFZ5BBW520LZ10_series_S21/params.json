@@ -1,0 +1,18 @@
+{
+  "input": "NFZ5BBW520LZ10_series.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 80,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.8380444328004664,
+  "ufrf_test_MSE": 0.8380444328004664,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.003945221376031761,
+  "used_ufrf": false,
+  "tau_est": -5.976914683858804e-10,
+  "phi0_est": -0.635383633402904
+}

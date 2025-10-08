@@ -1,0 +1,5 @@
+# Optional CSV alternative (if you don’t have Touchstone)
+# freq_Hz, ReS, ImS        # one column pair for the chosen Sij
+# or
+# freq_Hz, S_dB, S_deg     # magnitude dB + phase deg
+# Touchstone is strongly preferred; CSV mode is not wired by default in this version.

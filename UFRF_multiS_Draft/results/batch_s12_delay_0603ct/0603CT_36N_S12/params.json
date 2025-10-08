@@ -1,0 +1,17 @@
+{
+  "input": "0603CT_36N.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 696,
+  "test_points": 173,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 5.0117669069757584e-11,
+    "phi0": 0.25533866409697453,
+    "train_MSE": 0.006655146952871825,
+    "test_MSE": 0.006873348563691442
+  },
+  "train_improvement_percent": 0.1247654103755677,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

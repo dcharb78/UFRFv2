@@ -1,0 +1,17 @@
+{
+  "input": "RCEC72A475K3A3H03B_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 6.807371491937588e-10,
+    "phi0": -0.19479774959910967,
+    "train_MSE": 0.006881459489600145,
+    "test_MSE": 0.00871864221578017
+  },
+  "train_improvement_percent": 0.41428123141690665,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

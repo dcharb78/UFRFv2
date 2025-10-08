@@ -1,0 +1,17 @@
+{
+  "input": "RDEC71E226K3M1H03A_DC0V_25degC_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 3.0989576580340733e-10,
+    "phi0": -0.07825144590471073,
+    "train_MSE": 0.002222237931688242,
+    "test_MSE": 0.0031064645005126146
+  },
+  "train_improvement_percent": 0.24605039060288889,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}

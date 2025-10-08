@@ -1,0 +1,18 @@
+{
+  "input": "0603CT_22N.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 177,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.28200899272683566,
+  "ufrf_test_MSE": 0.28200899272683566,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.004571720890620155,
+  "used_ufrf": false,
+  "tau_est": 1.6738673674849876e-10,
+  "phi0_est": -0.017711426907234512
+}

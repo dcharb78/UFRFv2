@@ -1,0 +1,18 @@
+{
+  "input": "04AF200.s2p",
+  "Sij": "S21",
+  "split": "block",
+  "test_points": 37,
+  "deg": 3,
+  "ridge": 0.001,
+  "n_cycles": 13,
+  "gate": 0.02,
+  "Z0": 50.0,
+  "baseline_test_MSE": 0.19288588045067323,
+  "ufrf_test_MSE": 0.19288588045067323,
+  "improvement_percent": 0.0,
+  "train_gain_used": 0.00483516637082745,
+  "used_ufrf": false,
+  "tau_est": 9.692476917881221e-11,
+  "phi0_est": -0.028121753148910265
+}

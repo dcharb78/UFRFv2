@@ -1,0 +1,1 @@
+# Delay-aware S21 test — RHEL81H335K3K1H03B_DC0V_25degC_series.s2p\n- split: block, test_points: 80\n- baseline_test_MSE: 2.34931\n- ufrf_test_MSE: 2.34931\n- improvement: 0.00%\n- tau_est: 9.6556e-09 s, phi0_est: 0.194 rad\n- used_ufrf: False (gate=0.02, train_gain=0.0066)\n

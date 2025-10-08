@@ -1,0 +1,19 @@
+{
+  "input": "LQP03TN0N6BZ2_series.s2p",
+  "Sij": "S21",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "poly_complex_logf(deg=3)",
+    "train_MSE": null,
+    "test_MSE": 8.454130738875119e-05
+  },
+  "ufrf_prior": {
+    "model": "poly+UF(deg=3,13-cycles)",
+    "ridge": 0.001,
+    "train_MSE": null,
+    "test_MSE": 8.419973317765594e-05,
+    "improvement_percent": 0.404032326498768
+  }
+}

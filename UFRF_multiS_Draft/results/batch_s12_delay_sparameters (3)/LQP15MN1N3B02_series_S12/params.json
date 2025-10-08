@@ -1,0 +1,17 @@
+{
+  "input": "LQP15MN1N3B02_series.s2p",
+  "Sij": "S12",
+  "Z0": 50.0,
+  "train_points": 321,
+  "test_points": 80,
+  "baseline": {
+    "model": "delay+poly_complex_logf(deg=3)",
+    "tau": 7.846770321449494e-12,
+    "phi0": 0.009723224394454602,
+    "train_MSE": 0.000351270047381987,
+    "test_MSE": 0.0004185637912145653
+  },
+  "train_improvement_percent": 0.17828531215894552,
+  "gate_threshold_percent": 2.0,
+  "gated": false
+}
