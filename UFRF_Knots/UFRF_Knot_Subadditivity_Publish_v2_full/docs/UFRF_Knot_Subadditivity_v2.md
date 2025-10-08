@@ -1,7 +1,7 @@
 # Deterministic Subadditivity in Composite Knots via Multiscale Log-Phase Projection
 
 **Author:** Daniel Charboneau  
-**Affiliation:** Technology Group Solutions (TGS) / UFRF Research Program  
+**Affiliation:** UFRF Research Program  
 **Date:** 2025-10-06
 
 ---
