@@ -1,0 +1,51 @@
+cluster_id,morphology,cool_core,centroid_shift,concentration,dynamical_state,notes
+A2697,relaxed,SCC,0.012,1.23,relaxed,Strong cool core
+A0068,disturbed,NCC,0.089,0.87,merging,Double peak in X-ray
+A2813,disturbed,WCC,0.067,0.91,merging,Major merger
+A0115,disturbed,NCC,0.145,0.78,merging,Complex morphology
+A0141,intermediate,WCC,0.034,1.05,intermediate,Minor disturbance
+ZwCl0104.4+0048,relaxed,NCC,0.021,1.18,relaxed,Compact cluster
+A0209,disturbed,NCC,0.112,0.82,merging,Bimodal structure
+A0267,relaxed,WCC,0.028,1.12,relaxed,Regular morphology
+A0291,intermediate,NCC,0.045,0.98,intermediate,Slight elongation
+A0383,relaxed,SCC,0.015,1.31,relaxed,Textbook cool core
+A0521,disturbed,NCC,0.134,0.75,merging,Major merger ongoing
+A0586,relaxed,WCC,0.023,1.15,relaxed,Symmetric profile
+A0611,intermediate,WCC,0.056,0.94,intermediate,Minor merger
+A0697,disturbed,NCC,0.167,0.71,merging,Post-merger state
+ZwCl0857.9+2107,intermediate,NCC,0.048,0.96,intermediate,Irregular edges
+A0750,intermediate,WCC,0.041,1.02,intermediate,Substructure present
+A0773,disturbed,NCC,0.098,0.84,merging,Double cluster
+A0781,disturbed,NCC,0.123,0.79,merging,Complex merger
+ZwCl0949.6+5207,relaxed,WCC,0.019,1.21,relaxed,Regular profile
+A0901,relaxed,NCC,0.017,1.19,relaxed,Small relaxed cluster
+A0907,intermediate,WCC,0.052,0.97,intermediate,Minor disturbance
+A0963,relaxed,SCC,0.014,1.28,relaxed,Strong cool core
+ZwCl1021.0+0426,intermediate,NCC,0.063,0.92,intermediate,Elongated
+A1423,relaxed,WCC,0.025,1.14,relaxed,Regular morphology
+A1451,relaxed,SCC,0.013,1.32,relaxed,Prominent cool core
+RXCJ1212.3-1816,relaxed,NCC,0.022,1.16,relaxed,Compact regular
+ZwCl1231.4+1007,intermediate,NCC,0.054,0.95,intermediate,Some substructure
+A1682,intermediate,WCC,0.047,1.01,intermediate,Elongated profile
+A1689,relaxed,SCC,0.011,1.35,relaxed,Massive cool core
+A1758N,disturbed,NCC,0.156,0.73,merging,Major merger system
+A1763,disturbed,NCC,0.142,0.76,merging,Complex merger
+A1835,relaxed,SCC,0.009,1.38,relaxed,Strong cool core
+A1914,disturbed,NCC,0.101,0.83,merging,Bimodal system
+ZwCl1454.8+2233,intermediate,NCC,0.059,0.93,intermediate,Minor disturbance
+A2009,relaxed,WCC,0.027,1.11,relaxed,Regular cluster
+ZwCl1459.4+4240,intermediate,NCC,0.061,0.90,intermediate,Some elongation
+RXCJ1504.1-0248,disturbed,NCC,0.138,0.77,merging,Major merger
+A2111,intermediate,WCC,0.043,1.03,intermediate,Minor substructure
+A2204,relaxed,SCC,0.010,1.36,relaxed,Prominent cool core
+A2219,disturbed,NCC,0.119,0.80,merging,Post-merger
+RXJ1720.1+2638,relaxed,WCC,0.026,1.13,relaxed,Regular morphology
+A2261,relaxed,SCC,0.012,1.29,relaxed,Cool core cluster
+RXCJ2102.1-2431,relaxed,NCC,0.020,1.17,relaxed,Compact cluster
+RXJ2129.6+0005,intermediate,WCC,0.038,1.06,intermediate,Minor elongation
+A2390,relaxed,SCC,0.008,1.41,relaxed,Strong cool core
+A2485,intermediate,NCC,0.049,0.99,intermediate,Some substructure
+A2537,disturbed,NCC,0.131,0.74,merging,Merger in progress
+A2552,intermediate,WCC,0.044,1.04,intermediate,Minor disturbance
+A2631,intermediate,NCC,0.057,0.94,intermediate,Elongated
+A2645,relaxed,WCC,0.024,1.15,relaxed,Regular profile

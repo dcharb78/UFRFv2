@@ -34,3 +34,13 @@ dist/
 .idea/
 development_plan.md
 
+
+# Build artifacts and large outputs
+*.zip
+**/replication/**
+**/results/**
+**/boundary_test_results*/**
+**/hierarchical_results_*/**
+**/runs_full/**
+**/contextual_analysis/**
+**/UFRF-Cosmology-LoCuSS-FULL/boundary_test_results*/**
