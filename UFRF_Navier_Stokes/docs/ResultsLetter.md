@@ -47,5 +47,5 @@ python3 update_benchmarks.py
 ### Scope & Limitations
 This is a computational evidence suite aligned with UFRF, not a formal existence/smoothness proof. For broader acceptance, we plan to upscale 3D runs, add literature comparisons, and extend boundary validations.
 
-### Citation
-Please cite `CITATION.cff` and the consolidated UFRF repository.
+### Citation (Optional)
+You may optionally cite `CITATION.cff` and the consolidated UFRF repository if you find this work useful.

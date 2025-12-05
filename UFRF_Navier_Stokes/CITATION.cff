@@ -10,4 +10,4 @@ version: 1.0.0
 date-released: 2025-12-04
 license: CC0-1.0
 repository-code: https://github.com/dcharb78/UFRFv2
-message: "If you use this package, please cite this file."
+message: "If you use this package, you may optionally cite this file (attribution appreciated but not required)."

@@ -96,7 +96,7 @@ To provide a single, structured entry point to:
 
 ### License and intended use
 
-This repository is dedicated to the public domain under CC0 1.0 Universal. See `LICENSE` for details. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. Attribution is appreciated but not required. Please cite subpackage `CITATION.cff` files where present (e.g., `UFRF-Graphene/CITATION.cff`) for academic use.
+This repository is dedicated to the public domain under CC0 1.0 Universal. See `LICENSE` for details. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. Attribution is appreciated but not required. For academic use, you may optionally cite subpackage `CITATION.cff` files where present (e.g., `UFRF-Graphene/CITATION.cff`).
 
 ### Experiments and Purpose
 

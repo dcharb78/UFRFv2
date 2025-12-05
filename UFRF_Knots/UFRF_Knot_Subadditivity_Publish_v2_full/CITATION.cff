@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: "Deterministic Subadditivity in Composite Knots via Multiscale Log-Phase Projection"
-message: "If you use this package, please cite it as below."
+message: "If you use this package, you may optionally cite it as below (attribution appreciated but not required)."
 authors:
   - family-names: Charbonneau
     given-names: Daniel
