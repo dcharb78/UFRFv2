@@ -71,5 +71,5 @@ Feel free to open an issue for:
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+This repository is dedicated to the public domain under CC0 1.0 Universal. By contributing, you agree that your contributions will be dedicated to the public domain as well, waiving all copyright and related rights to the extent possible under law.
 

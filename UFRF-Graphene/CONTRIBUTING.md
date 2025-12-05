@@ -1,6 +1,6 @@
 # Contributing
 
-We welcome academic, non-commercial contributions (analysis scripts, replication data, protocol refinements).
+We welcome all contributions (analysis scripts, replication data, protocol refinements). This repository is in the public domain under CC0 1.0, so contributions will be dedicated to the public domain as well.
 
 ## How to contribute
 1. Fork the repo and create a branch.
