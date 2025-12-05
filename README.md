@@ -1,5 +1,21 @@
 ## UFRF Consolidated Research Repository
 
+**This repository is dedicated to the public domain under CC0 1.0**  
+→ No copyright. No restrictions. No patents possible. Use it for anything, forever.
+
+Permanent citable archive: https://doi.org/10.5281/zenodo.XXXXXXX (replace with the real Zenodo DOI once you mint it)
+
+If this work ever helps you or sparks joy and you feel like sending some energy back:
+
+- One-time coffee ☕ https://ko-fi.com/dcharb78
+- Monthly support ❤️ https://github.com/sponsors/dcharb78
+
+Every dollar goes straight to more open-source research and UFRF validation work.
+
+Thank you for being part of the journey.
+
+---
+
 This repository consolidates the Universal Fractal Resonance Framework (UFRF) documents, reference code, and domain-specific validation packages in one place for independent review, replication, and academic collaboration.
 
 ### Why this repo exists
@@ -80,9 +96,7 @@ To provide a single, structured entry point to:
 
 ### License and intended use
 
-Unless otherwise noted, content in this repository is released under the Creative Commons Attribution–NonCommercial 4.0 International license (CC BY-NC 4.0). See `LICENSE` for details. Academic use, critique, replication, teaching, and non-commercial research are encouraged. Please attribute “Universal Field Resonance Framework (UFRF) – Consolidated Research Repository” and cite subpackage `CITATION.cff` files where present (e.g., `UFRF-Graphene/CITATION.cff`).
-
-If you need a different license for specific use (e.g., commercial), please open an issue to discuss.
+This repository is dedicated to the public domain under CC0 1.0 Universal. See `LICENSE` for details. You can copy, modify, distribute, and perform the work, even for commercial purposes, all without asking permission. Attribution is appreciated but not required. Please cite subpackage `CITATION.cff` files where present (e.g., `UFRF-Graphene/CITATION.cff`) for academic use.
 
 ### Experiments and Purpose
 
@@ -98,7 +112,7 @@ If you need a different license for specific use (e.g., commercial), please open
 
 ### AI and automated use
 
-AI/ML training, dataset creation, embedding extraction, or similar automated uses are not permitted without a separate license. See `AI_USE_POLICY.md`. Advisory crawler directives are included in `robots.txt` and `ai.txt` (useful if this repo is published via GitHub Pages); note that GitHub does not honor per-repository robots.txt for the main site.
+As this work is in the public domain under CC0 1.0, there are no restrictions on AI/ML training, dataset creation, embedding extraction, or any other automated uses. Use freely for any purpose. Advisory crawler directives are included in `robots.txt` and `ai.txt` (useful if this repo is published via GitHub Pages); note that GitHub does not honor per-repository robots.txt for the main site.
 
 ### Contributing
 

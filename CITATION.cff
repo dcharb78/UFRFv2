@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "Charbonneau"
+    given-names: "Daniel"
+    orcid: "https://orcid.org/0000-0003-1415-9275"
+title: "UFRF Consolidated Research Repository: Universal Fractal Resonance Framework Theory, Validation Packages, and Cross-Domain Evidence"
+version: "1.0.0"
+doi: 10.5281/zenodo.XXXXXXX   # replace with real DOI after minting
+date-released: 2025-12-04
+repository-code: "https://github.com/dcharb78/UFRFv2"
+license: "CC0-1.0"
+keywords:
+  - unified field resonance framework
+  - fractal resonance
+  - cross-domain validation
+  - graphene
+  - cosmology
+  - navier-stokes
+  - sonoluminescence
+  - black holes
+  - mathematical framework
+

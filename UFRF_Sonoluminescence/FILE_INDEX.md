@@ -12,7 +12,7 @@ Complete index of files in the UFRF v9.1 Pattern of Patterns repository.
 | `PROJECT_STATUS.md` | Current project status and phase completion |
 | `CHANGELOG.md` | Version history and notable changes |
 | `CONTRIBUTING.md` | Contribution guidelines |
-| `LICENSE` | MIT License |
+| `LICENSE` | CC0 1.0 Public Domain |
 | `FILE_INDEX.md` | This file - complete file listing |
 | `requirements.txt` | Python dependencies |
 | `.gitignore` | Git ignore patterns |

@@ -80,4 +80,4 @@ This repository is designed to live within the consolidated UFRF repo. Cite and 
 - UFRF consolidated repository: `https://github.com/dcharb78/UFRFv2`
 
 ## License and Citation
-- License: CC BY-NC 4.0 (see `CITATION.cff` for citation info).
+- License: CC0 1.0 Public Domain (see `CITATION.cff` for citation info).

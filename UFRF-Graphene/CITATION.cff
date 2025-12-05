@@ -3,12 +3,10 @@ title: "UFRF–Graphene: Coupling-First Validation Package"
 message: "If you use this package, please cite it as below."
 type: software
 authors:
-  - family-names: Charboneau
+  - family-names: Charbonneau
     given-names: Daniel
-    orcid: "https://orcid.org/0000-0000-0000-0000"
-  - family-names: "UFRF Project"
-    given-names: "Team"
+    orcid: "https://orcid.org/0000-0003-1415-9275"
 version: "v1.0"
-date-released: "2025-10-01"
-license: "CC-BY-NC-4.0"
-repository-code: "https://github.com/REPLACE_WITH_YOUR_REPO/UFRF-Graphene"
+date-released: "2025-12-04"
+license: "CC0-1.0"
+repository-code: "https://github.com/dcharb78/UFRFv2"

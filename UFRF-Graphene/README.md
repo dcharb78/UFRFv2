@@ -29,4 +29,4 @@ python code/graphene_m_scaling_lab_template.py   --measurements your_measurement
 - **results/plots/**: α recovery, \(O_*\) recovery, and ratio invariance figures from a full test run.
 
 ## License
-Creative Commons Attribution–NonCommercial 4.0 International (**CC BY-NC 4.0**). See `LICENSE`.
+This package is dedicated to the public domain under **CC0 1.0 Universal**. See `LICENSE` for details. Use freely for any purpose, including commercial use. Attribution is appreciated but not required.

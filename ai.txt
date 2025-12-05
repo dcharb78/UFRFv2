@@ -1,12 +1,8 @@
 # AI crawler directives (advisory)
-# See also: AI_USE_POLICY.md and LICENSE (CC BY-NC 4.0)
+# See also: AI_USE_POLICY.md and LICENSE (CC0 1.0 Public Domain)
 
 User-agent: *
-Disallow: /
+Allow: /
 
-Allow: /README.md
-Allow: /LICENSE
-Allow: /AI_USE_POLICY.md
-
-Policy: This content may not be used for training, fine-tuning, or evaluation of AI/ML systems without a separate, written license from the authors.
+Policy: This content is in the public domain under CC0 1.0. All uses are permitted, including AI/ML training, fine-tuning, and evaluation. Attribution is appreciated but not required.
 
